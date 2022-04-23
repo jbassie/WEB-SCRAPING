@@ -1,2 +1,3 @@
 # WEB-SCRAPING
-Here I scrapped an E-commerce Website to extract some Data from it. The Data is subject to further cleaning 
+### Using Beautiful Soup to scrap Jumia(online Retail Jumia in Africa) to collect information about some certain products its price range and ratings
+
