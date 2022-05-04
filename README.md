@@ -1,3 +1,7 @@
 # WEB-SCRAPING
-### Using Beautiful Soup to scrap Jumia(online Retail Jumia in Africa) to collect information about some certain products its price range and ratings
+This Repo contians Web Scraping Projects I have carried out Uisng Python to extract data from different 
+Web pages 
+
+-----------------------------------------------------------------------------------------------------
+
 
