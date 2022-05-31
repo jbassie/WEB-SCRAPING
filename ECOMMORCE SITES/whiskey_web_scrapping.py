@@ -4,6 +4,9 @@ import numpy as np
 import requests
 from bs4 import BeautifulSoup
 
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'
+    }
 class whiskey_web_scrapping():  
     def scrape_html(self, base_url, page):
         """
@@ -22,7 +25,7 @@ class whiskey_web_scrapping():
         self.page  = page
 
         url = base_url + str(page)
-        r = requests.get(url)
+        r = requests.get(url, headers=headers)
         soup = BeautifulSoup(r.content, 'lxml')
         return soup
     
@@ -41,7 +44,7 @@ class whiskey_web_scrapping():
         '''
 
         self.soup = soup
-        products_info_content = soup.find_all('header', class_ ='product-main_header' )
+        products_info_content = soup.find_all('header', class_ ='product-card__content' )
         return products_info_content
 
 
@@ -61,7 +64,7 @@ class whiskey_web_scrapping():
 
         self.soup = soup
 
-        products_info_price = soup.find_all('div', class_ = "product-card_data")
+        products_info_price = soup.find_all('div', class_ = "product-card__data")
         return products_info_price
 
     def get_product_name(self, products_info_content):
