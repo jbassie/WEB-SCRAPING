@@ -17,5 +17,7 @@ def get_page_price(self, soup):
 
     self.soup = soup
 
-    products_info_price = soup.find_all('div', class_ = "product-action__row")
+    products_info_price = soup.find_all('div', class_ = "product-card_data")
     return products_info_price
+
+

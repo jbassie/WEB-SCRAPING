@@ -44,7 +44,7 @@ class whiskey_web_scrapping():
         '''
 
         self.soup = soup
-        products_info_content = soup.find_all('header', class_ ='product-card__content' )
+        products_info_content = soup.find_all('div', class_ ='product-card__content' )
         return products_info_content
 
 
@@ -89,7 +89,7 @@ class whiskey_web_scrapping():
             name_p = products_info_content[product].find_all('p')[0]
 
             #Extract the contents of the first paragraphs -  the name of the beverage
-            alcohol_name = name_p.contents[0].strip
+            alcohol_name = name_p.contents[0].strip()
 
             #Append each name to the list
             product_name.append(alcohol_name)
@@ -148,7 +148,7 @@ class whiskey_web_scrapping():
             al_p = products_info_content[product].find_all('p')[1]
 
             #Apply string manipulation to extract the alcohol amount
-            alcohol_percent_str = products_info_content[product].find_all('p')[1]
+            alcohol_percent_str = al_p.contents[0].strip()
             start_location_amount = 0
             end_location_amount = alcohol_percent_str.find('cl')
             alcohol_amount = alcohol_percent_str[start_location_amount :end_location_amount]
@@ -176,10 +176,10 @@ class whiskey_web_scrapping():
         for product in range(len(products_info_price)):
 
                 #Extract the price for each product
-                alcohol_price = products_info_price[product].content[0].content[0].replace('£', '').strip()
+                alcohol_price = products_info_price[product].contents[0].contents[0].replace('£', '').strip()
 
                 #Append each alcohol price to the list
-                product_price.appednd(alcohol_price)
+                product_price.append(alcohol_price)
         return product_price 
 
     def create_df(self,names,alcohol_amount, alcohol_percent,price):

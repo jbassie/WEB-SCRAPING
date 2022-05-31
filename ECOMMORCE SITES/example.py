@@ -6,7 +6,8 @@ from whiskey_web_scrapping import whiskey_web_scrapping
 scraper = whiskey_web_scrapping()
 
 #Generate a BeautifulSoup object
-soup = scraper.scrape_html(base_url = 'https://www.thewhiskyexchange.com/search?q=single-malt-scotch-whisky', page = 1)
+soup = scraper.scrape_html(base_url = 'https://www.thewhiskyexchange.com/c/40/single-malt-scotch-whisky?pg=', page = 1)
+
 
 #collecting div objects from the first page
 products_info_content = scraper.get_page_content(soup)
@@ -18,7 +19,7 @@ products_al_percent = scraper.get_product_alcohol_percent(products_info_content)
 products_al_amount = scraper.get_product_alcohol_amount(products_info_content)
 product_price = scraper.get_product_price(products_info_price)
 
-# Creatign a DataFrame from the first page
+# Creating a DataFrame from the first page
 df = scraper.create_df(names = product_name,alcohol_amount = products_al_amount, alcohol_percent = products_al_percent,
                         price = product_price)
 

@@ -14,5 +14,5 @@ def get_page_content(self, soup):
     '''
 
     self.soup = soup
-    products_info_content = soup.find_all('header', class_ ='product-main_header' )
+    products_info_content = soup.find_all('div', class_ ='product-card__content' )
     return products_info_content
