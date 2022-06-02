@@ -11,7 +11,7 @@ headers = {
 
 productlinks = []
     
-for x in range(1,50):
+for x in range(1,2):
     r = requests.get(f'https://www.thewhiskyexchange.com/c/40/single-malt-scotch-whisky?bottlingstatus=Discontinued&pg={x}')
     soup = BeautifulSoup(r.content, 'lxml')
     
@@ -39,7 +39,7 @@ for link in productlinks:
     end_location_percent = al_p.find('%')
     alcohol_percent = al_p[start_location_percent + 2:end_location_percent]
     price = soup.find('p', class_ ='product-action__price').contents[0].replace('£','').strip()
-
+    category = 'Scotch Whiskey'
   
 
 
@@ -47,7 +47,8 @@ for link in productlinks:
         'Product_name': name,
         'Alcohol_amount': alcohol_amount,
         'Alcohol_percent': alcohol_percent,
-        'Price': price
+        'Price': price,
+        'Category': category
         }
     
     
@@ -56,5 +57,5 @@ for link in productlinks:
     
 df = pd.DataFrame(whiskylist)
 
-print(df.head(20))
-df.to_csv('whisky_data.csv', header=True, index=False)
+print(df.head())
+df.to_csv('whisky_data6.csv', header=True, index=False)
