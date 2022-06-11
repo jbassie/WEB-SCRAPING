@@ -18,8 +18,8 @@ headers = {
 
 productlinks = []
     
-for x in range(15,25):
-    r = requests.get(f'https://www.thewhiskyexchange.com/c/351/cognac?pg={x}')
+for x in range(16,21):
+    r = requests.get(f'https://www.thewhiskyexchange.com/c/644/still-wine?pg={x}')
     soup = BeautifulSoup(r.content, 'lxml')
     
     productlist = soup.find_all('li', class_ = "product-grid__item")
@@ -46,7 +46,7 @@ for link in productlinks:
     end_location_percent = al_p.find('%')
     alcohol_percent = al_p[start_location_percent + 2:end_location_percent]
     price = soup.find('p', class_ ='product-action__price').contents[0].replace('£','').strip()
-    category = 'Cognac'
+    category = 'Wine & Champagne'
   
 
 
@@ -65,4 +65,4 @@ for link in productlinks:
 df = pd.DataFrame(whiskylist)
 
 print(df.head())
-df.to_csv('cognac2.csv', header=True, index=False)
+df.to_csv('wine3.csv', header=True, index=False)
