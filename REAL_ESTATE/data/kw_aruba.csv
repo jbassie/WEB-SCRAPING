@@ -1,468 +1,474 @@
-name,location,property,price,bedrooms,bathrooms,Pool,Latitude,Longitude,link
-L. G. SMITH BLVD - MALMOK,Malmok,Sold,2.400.000,3,2,No,12.590829896567056,"-70.04712218017578
+name,location,property_status,property_type,price,bedrooms,bathrooms,Pool,Latitude,Longitude,link
+L. G. SMITH BLVD - MALMOK,Malmok,Sold, Residential,2.400.000,3,2,No,12.590829896567056,"-70.04712218017578
                                         ",https://kw-aruba.com//listings/l-g-smith-blvd
-Rooi Santo 1-A,Noord,New Listing,1.900.000,8,9,Yes,12.584442613570282,"-70.03809118242263
+Rooi Santo 1-A,Noord,New Listing, Residential,1.900.000,8,9,Yes,12.584442613570282,"-70.03809118242263
                                         ",https://kw-aruba.com//listings/rooisanto
-Opal 125,Noord,,1.685.800,3,3,Yes,12.58800275813263,"-70.04124277801513
+Opal 125,Noord,,,1.685.800,3,3,Yes,12.58800275813263,"-70.04124277801513
                                         ",https://kw-aruba.com//listings/opal-125
-Oranjestad Luxury Villa,Oranjestad,New Listing,1.550.000,5,5,,,,https://kw-aruba.com//listings/oranjestad-luxury-villa
-Westpunt 12-C,Noord,New Listing,1.350.000,6,7,Yes,12.592232983332247,"-70.03804558486938
+Oranjestad Luxury Villa,Oranjestad,New Listing, Residential,1.550.000,5,5,,,,https://kw-aruba.com//listings/oranjestad-luxury-villa
+Opal 120,Noord,New Listing, Residential,1.485.800,6,6,Yes,12.58843141191287,"-70.0418127474308
+                                        ",https://kw-aruba.com//listings/opal 120
+Westpunt 12-C,Noord,New Listing, Residential,1.350.000,6,7,Yes,12.592232983332247,"-70.03804558486938
                                         ",https://kw-aruba.com//listings/westpunt-12-c
-Seroe Janchi 31,Noord,New Listing,1.265.000,6,3,Yes,,,https://kw-aruba.com//listings/seroe-janchi-31
-Opal 138,Noord,,1.200.000,4,3,Yes,12.589570152557531,"-70.04244106498184
+Seroe Janchi 31,Noord,New Listing, Residential,1.265.000,6,3,Yes,,,https://kw-aruba.com//listings/seroe-janchi-31
+Opal 138,Noord,,,1.200.000,4,3,Yes,12.589570152557531,"-70.04244106498184
                                         ",https://kw-aruba.com//listings/opal-ocean-view
-Altovista 37-G,Noord,,1.200.000,4,4,Yes,12.57210214208684,"-70.02050393791198
+Altovista 37-G,Noord,,,1.200.000,4,4,Yes,12.57210214208684,"-70.02050393791198
                                         ",https://kw-aruba.com//listings/altovista-37-g
-Opal 133,Noord,Under contract,1.199.000,4,4,Yes,12.58944774389157,"-70.0415431854248
+Opal 133,Noord,Under contract, Residential,1.199.000,4,4,Yes,12.58944774389157,"-70.0415431854248
                                         ",https://kw-aruba.com//listings/opal-133
-Caya di Oro 52 Tierra del Sol,Malmok,Sold,1.150.000,3,3,Yes,12.601653883884683,"-70.03652745456695
+Caya di Oro 52 Tierra del Sol,Malmok,Sold, Residential,1.150.000,3,3,Yes,12.601653883884683,"-70.03652745456695
                                         ",https://kw-aruba.com//listings/52-tierra-del-sol
-Alto Vista 45-A,Noord,New Listing,1.100.000,4,4,Yes,12.570719888583659,"-70.01940423221588
+Alto Vista 45-A,Noord,New Listing, Residential,1.100.000,4,4,Yes,12.570719888583659,"-70.01940423221588
                                         ",https://kw-aruba.com//listings/AltoVista45A
-Villa Safir,Noord,New Listing,1.000.000,5,5,Yes,12.59298687752872,"-70.03636115760803
+Villa Safir,Noord,New Listing, Residential,1.000.000,5,5,Yes,12.59298687752872,"-70.03636115760803
                                         ",https://kw-aruba.com//listings/villa-safir
-Koyari Boutique Apartments,Noord,Under contract,939.000,8,8,Yes,12.558781935349463,"-70.04541093082427
+Koyari Boutique Apartments,Noord,Under contract, Residential,939.000,8,8,Yes,12.558781935349463,"-70.04541093082427
                                         ",https://kw-aruba.com//listings/koyari-apartments-2
-Villa Esmeralda,Noord,Under contract,895.000,3,3,Yes,12.594981545235358,"-70.03924721450807
+Villa Esmeralda,Noord,Under contract, Residential,895.000,3,3,Yes,12.594981545235358,"-70.03924721450807
                                         ",https://kw-aruba.com//listings/villa-esmeralda
-Safir 39,Malmok,Under contract,875.000,4,4,Yes,12.593746004862453,"-70.03616803855896
+Safir 39,Malmok,Under contract, Residential,875.000,4,4,Yes,12.593746004862453,"-70.03616803855896
                                         ",https://kw-aruba.com//listings/safir-39
-Villa Westpunt,Malmok,New Listing,850.000,4,3,Yes,12.594965839250884,"-70.0380670425415
-                                        ",https://kw-aruba.com//listings/villa-westpunt
-Paradera 104-C,Paradera,,795.000,5,3,Yes,12.529934831576991,"-70.00340217323303
-                                        ",https://kw-aruba.com//listings/paradera-104-c
-Caya Frere Johannes 4,Oranjestad,New Listing,795.000,12,12,No,12.534667232662475,"-70.03700196814144
-                                        ",https://kw-aruba.com//listings/cfj4
-Villa Casa Blanca,Oranjestad,Under contract,790.000,5,5,Yes,,,https://kw-aruba.com//listings/Villa-Casa-Blanca
-Tuscany Villas,Noord,,788.000,3,3,Yes,12.58144262988543,"-70.03438705177307
-                                        ",https://kw-aruba.com//listings/tuscany-villas
-Monaco Vacation House,Oranjestad,Reduced in price,780.000,8,8,Yes,12.526811149395177,"-70.02170020313262
+Monaco Vacation House,Oranjestad,,,850.000,8,8,Yes,12.526811149395177,"-70.02170020313262
                                         ",https://kw-aruba.com//listings/seroe-blanco-56-l
-Seroe Blanco 54-A,Oranjestad,Sold,735.000,8,5,Yes,12.525625030490248,"-70.02203279705047
+Villa Westpunt,Malmok,New Listing, Residential,850.000,4,3,Yes,12.594965839250884,"-70.0380670425415
+                                        ",https://kw-aruba.com//listings/villa-westpunt
+Paradera 104-C,Paradera,,,795.000,5,3,Yes,12.529934831576991,"-70.00340217323303
+                                        ",https://kw-aruba.com//listings/paradera-104-c
+Caya Frere Johannes 4,Oranjestad,New Listing, Residential,795.000,12,12,No,12.534667232662475,"-70.03700196814144
+                                        ",https://kw-aruba.com//listings/cfj4
+Villa Casa Blanca,Oranjestad,Under contract, Residential,790.000,5,5,Yes,,,https://kw-aruba.com//listings/Villa-Casa-Blanca
+Tuscany Villas,Noord,,,788.000,3,3,Yes,12.58144262988543,"-70.03438705177307
+                                        ",https://kw-aruba.com//listings/tuscany-villas
+Seroe Blanco 54-A,Oranjestad,Sold, Residential,735.000,8,5,Yes,12.525625030490248,"-70.02203279705047
                                         ",https://kw-aruba.com//listings/seroe-blanco-54-
-Palm Beach 33-A,Noord,,695.000,3,2,No,12.56743700671298,"-70.04117840499877
+Palm Beach 33-A,Noord,,,695.000,3,2,No,12.56743700671298,"-70.04117840499877
                                         ",https://kw-aruba.com//listings/palm-beach-33-
-Alto Vista Villa Park,Noord,New Listing,650.000,6,5,Yes,12.575070820494437,"-70.01491421432495
+Alto Vista Villa Park,Noord,New Listing, Residential,650.000,6,5,Yes,12.575070820494437,"-70.01491421432495
                                         ",https://kw-aruba.com//listings/alto-vista-villa-park
-Ponton 34G,Oranjestad,,645.000,7,7,No,12.536721443967172,"-70.0287007686615
+Ponton 34G,Oranjestad,,,645.000,7,7,No,12.536721443967172,"-70.0287007686615
                                         ",https://kw-aruba.com//listings/ponton-34g
-Caya Maguey 1,Oranjestad,Sold,628.570,4,3,Yes,12.536569584996425,"-70.03350192279815
+Caya Maguey 1,Oranjestad,Sold, Residential,628.570,4,3,Yes,12.536569584996425,"-70.03350192279815
                                         ",https://kw-aruba.com//listings/caya-maguey-1
-Seroe Colorado 185,San Nicolas,New Listing,625.000,4,3,No,12.420591357486456,"-69.8837541934967
+Seroe Colorado 185,San Nicolas,New Listing, Residential,625.000,4,3,No,12.420591357486456,"-69.8837541934967
                                         ",https://kw-aruba.com//listings/seroe-colorado-185
-Villa Opal,Malmok,Under contract,575.000,3,3,No,12.586652003216672,"-70.04038447113037
+Villa Opal,Malmok,Under contract, Residential,575.000,3,3,No,12.586652003216672,"-70.04038447113037
                                         ",https://kw-aruba.com//listings/villa-opal
-Ruby 72,Noord,New Listing,555.056,4,2,Yes,12.576295979359324,"-70.03544920654296
+Ruby 72,Noord,New Listing, Residential,555.056,4,2,Yes,12.576295979359324,"-70.03544920654296
                                         ",https://kw-aruba.com//listings/ruby-72
-Boegoeroei Residence,Noord,New Listing,550.000,5,3,Yes,12.555698990599666,"-70.03299867273907
+Boegoeroei Residence,Noord,New Listing, Residential,550.000,5,3,Yes,12.555698990599666,"-70.03299867273907
                                         ",https://kw-aruba.com//listings/boegoeroei-residence
-CUNUCU ABAO,Noord,New Listing,535.000,5,3,No,,,https://kw-aruba.com//listings/cunucu-abao-2
-Marawiel 13A,Ayo,New Listing,533.709,4,4,Yes,12.543214640345393,"-69.9903934595108
+CUNUCU ABAO,Noord,New Listing, Residential,535.000,5,3,No,,,https://kw-aruba.com//listings/cunucu-abao-2
+Marawiel 13A,Ayo,New Listing, Residential,533.709,4,4,Yes,12.543214640345393,"-69.9903934595108
                                         ",https://kw-aruba.com//listings/marawiel-13a
-Italiëstraat 10,Oranjestad,New Listing,528.090,4,3,No,12.529233119177299,"-70.04875296325683
+Italiëstraat 10,Oranjestad,New Listing, Residential,528.090,4,3,No,12.529233119177299,"-70.04875296325683
                                         ",https://kw-aruba.com//listings/italiestraat-10
-Ierlandstraat Residence,Oranjestad,Reduced in price,498.000,5,5,Yes,12.53110783908467,"-70.04704707832336
+Ierlandstraat Residence,Oranjestad,Reduced in price, Residential,498.000,5,5,Yes,12.53110783908467,"-70.04704707832336
                                         ",https://kw-aruba.com//listings/ierlandstraat-Residence
-Pavia 195,Paradera,Sold,485.000,4,3,Yes,12.522422744040114,"-70.00372940273284
+Pavia 195,Paradera,Sold, Residential,485.000,4,3,Yes,12.522422744040114,"-70.00372940273284
                                         ",https://kw-aruba.com//listings/pavia195
-Opal 97,Noord,Under contract,477.530,3,2,No,12.588212176863175,"-70.03937596054077
+Opal 97,Noord,Under contract, Residential,477.530,3,2,No,12.588212176863175,"-70.03937596054077
                                         ",https://kw-aruba.com//listings/opal-97
-Paradera 164-A,Paradera,Under contract,477.528,4,4,No,12.530468969586066,"-70.00077360839843
+Paradera 164-A,Paradera,Under contract, Residential,477.528,4,4,No,12.530468969586066,"-70.00077360839843
                                         ",https://kw-aruba.com//listings/paradera-164-
-Daimari Water Villas,Noord,Sold,469.775,2,2,Yes,12.58173058795631,"-70.03668302268981
+Daimari Water Villas,Noord,Sold, Residential,469.775,2,2,Yes,12.58173058795631,"-70.03668302268981
                                         ",https://kw-aruba.com//listings/daimari-water-villas
-Sabana Liber 41T,Noord,,450.000,2,2,No,,,https://kw-aruba.com//listings/sabana-liber-41t
-Tanki Leendert 112a,Tanki Leendert,Sold,449.000,4,3,Yes,12.539711476501427,"-70.01918429107663
+Sabana Liber 41T,Noord,,,450.000,2,2,No,,,https://kw-aruba.com//listings/sabana-liber-41t
+Tanki Leendert 112a,Tanki Leendert,Sold, Residential,449.000,4,3,Yes,12.539711476501427,"-70.01918429107663
                                         ",https://kw-aruba.com//listings/tanki-leendert-112a
-Palm Beach 6-C,Noord,New Listing,446.500,4,4,,,,https://kw-aruba.com//listings/palm-beach-6-c
-Cashero 37-E,Ayo,New Listing,439.000,4,2,Yes,12.522969989594126,"-69.97845762939453
+Palm Beach 6-C,Noord,New Listing, Residential,446.500,4,4,,,,https://kw-aruba.com//listings/palm-beach-6-c
+Cashero 37-E,Ayo,New Listing, Residential,439.000,4,2,Yes,12.522969989594126,"-69.97845762939453
                                         ",https://kw-aruba.com//listings/cashero-37-e
-Gasparito 7-C,Palm Beach,Reduced in price,435.000,3,2,No,12.56246809936565,"-70.04312568874359
+Gasparito 7-C,Palm Beach,Reduced in price, Residential,435.000,3,2,No,12.56246809936565,"-70.04312568874359
                                         ",https://kw-aruba.com//listings/gasparito-7-
-Safir 48,Noord,Sold,429.000,5,2,Yes,12.593070643413853,"-70.03713363380432
+Safir 48,Noord,Sold, Residential,429.000,5,2,Yes,12.593070643413853,"-70.03713363380432
                                         ",https://kw-aruba.com//listings/safir-48
-Esmeralda 113-D,Noord,Sold,425.000,3,2,No,12.59532445898665,"-70.0398319360733
+Esmeralda 113-D,Noord,Sold, Residential,425.000,3,2,No,12.59532445898665,"-70.0398319360733
                                         ",https://kw-aruba.com//listings/esmeralda-113-d
-Bloemond 28K,Paradera,Sold,425.000,4,3,No,12.536449145059464,"-69.99540919036865
+Bloemond 28K,Paradera,Sold, Residential,425.000,4,3,No,12.536449145059464,"-69.99540919036865
                                         ",https://kw-aruba.com//listings/bloemond-28k
-Washington 52-H,Noord,New Listing,425.000,4,3,No,12.556944069631983,"-70.03814214439392
+Washington 52-H,Noord,New Listing, Residential,425.000,4,3,No,12.556944069631983,"-70.03814214439392
                                         ",https://kw-aruba.com//listings/washington52h
-Ierlandstraat Residence 21,Oranjestad,Reduced in price,421.349,4,3,No,12.530804114438427,"-70.0470363494873
+Ierlandstraat Residence 21,Oranjestad,Reduced in price, Residential,421.349,4,3,No,12.530804114438427,"-70.0470363494873
                                         ",https://kw-aruba.com//listings/ierlandstraat-residence-2
-kibrahachastraat 14,Oranjestad,New Listing,421.000,5,4,No,12.532427466150478,"-70.02952688903808
+kibrahachastraat 14,Oranjestad,New Listing, Residential,421.000,5,4,No,12.532427466150478,"-70.02952688903808
                                         ",https://kw-aruba.com//listings/kibrahachastraat-14
-Seroe Blanco Home,Oranjestad,New Listing,407.304,0,0,,12.526557168543404,"-70.02298766345977
+Seroe Blanco Home,Oranjestad,New Listing, Residential,407.304,0,0,,12.526557168543404,"-70.02298766345977
                                         ",https://kw-aruba.com//listings/seroe-blanco-home
-Caya Frere Bonifacius 3,Oranjestad,,400.000,7,4,No,12.534637302694176,"-70.03774517745971
+Caya Frere Bonifacius 3,Oranjestad,,,400.000,7,4,No,12.534637302694176,"-70.03774517745971
                                         ",https://kw-aruba.com//listings/caya-frere-bonifacious-3
-Tanki Flip 3-A,Noord,,393.259,5,5,No,12.544670350617798,"-70.03102892608642
+Tanki Flip 3-A,Noord,,,393.259,5,5,No,12.544670350617798,"-70.03102892608642
                                         ",https://kw-aruba.com//listings/tanki-flip-3-
-Apartment complex Bubali 79-D,Eagle Beach,Sold,389.000,8,6,No,12.55045645575919,"-70.04309350223541
+Apartment complex Bubali 79-D,Eagle Beach,Sold, Residential,389.000,8,6,No,12.55045645575919,"-70.04309350223541
                                         ",https://kw-aruba.com//listings/apartment-complex-bubali-79-d
-Kudawecha 63-B Apartments,Noord,,385.000,7,6,No,12.557043555576563,"-70.01231783599853
+Kudawecha 63-B Apartments,Noord,,,385.000,7,6,No,12.557043555576563,"-70.01231783599853
                                         ",https://kw-aruba.com//listings/kudawecha-63-b-apartments
-Caya Luna 46,Oranjestad,Sold,385.000,4,3,Yes,12.523477958112434,"-70.01951152057647
+Caya Luna 46,Oranjestad,Sold, Residential,385.000,4,3,Yes,12.523477958112434,"-70.01951152057647
                                         ",https://kw-aruba.com//listings/caya-luna-46
-Morgenster 43I,Santa Cruz,New Listing,382.023,4,3,No,12.518330148382224,"-70.00464671821594
+Morgenster 43I,Santa Cruz,New Listing, Residential,382.023,4,3,No,12.518330148382224,"-70.00464671821594
                                         ",https://kw-aruba.com//listings/morgenster-43i
-Verano 12,Oranjestad,New Listing,375.000,5,4,,,,https://kw-aruba.com//listings/verano-12
-Cochinilla 28,Santa Cruz,Under contract,370.000,3,3,No,12.507374345809481,"-69.98893165559768
+Verano 12,Oranjestad,New Listing, Residential,375.000,5,4,,,,https://kw-aruba.com//listings/verano-12
+Cochinilla 28,Santa Cruz,Under contract, Residential,370.000,3,3,No,12.507374345809481,"-69.98893165559768
                                         ",https://kw-aruba.com//listings/cochinilla-28
-Wayaca Residence 497,Oranjestad,New Listing,365.168,3,0,No,12.502493312782892,"-69.99852591724395
+Wayaca Residence 497,Oranjestad,New Listing, Residential,365.168,3,0,No,12.502493312782892,"-69.99852591724395
                                         ",https://kw-aruba.com//listings/wayaca-residence-497
-Bloemond 28-E,Paradera,New Listing,365.000,5,3,Yes,12.537266040918663,"-69.99532335968017
+ON HOLD Bloemond 28-E,Paradera,,,365.000,5,3,Yes,12.537266040918663,"-69.99532335968017
                                         ",https://kw-aruba.com//listings/bloemond-28-e
-Sabana Liber 89-Z,Noord,Sold,365.000,3,2,No,12.561248110590933,"-70.0202357170105
+Sabana Liber 89-Z,Noord,Sold, Residential,365.000,3,2,No,12.561248110590933,"-70.0202357170105
                                         ",https://kw-aruba.com//listings/sabana-liber-89-z
-Caya Luna 24,Oranjestad,Sold,358.989,3,2,Yes,12.522891437672076,"-70.02071851463317
+Caya Luna 24,Oranjestad,Sold, Residential,358.989,3,2,Yes,12.522891437672076,"-70.02071851463317
                                         ",https://kw-aruba.com//listings/caya-luna-24
-Paradera 1E,Paradera,Reduced in price,355.000,3,2,No,12.537255567911174,"-70.00804775924682
+Paradera 1E,Paradera,Reduced in price, Residential,355.000,3,2,No,12.537255567911174,"-70.00804775924682
                                         ",https://kw-aruba.com//listings/paradera-1e
-Savaneta 349-F,Savaneta,Reduced in price,344.000,5,4,No,12.447591060632318,"-69.93468397827148
+Savaneta 349-F,Savaneta,Reduced in price, Residential,344.000,5,4,No,12.447591060632318,"-69.93468397827148
                                         ",https://kw-aruba.com//listings/savaneta-349-f
-Koyari 33-F,Noord,Under contract,336.000,3,2,,12.560834465014661,"-70.04405373306274
+Koyari 33-F,Noord,Under contract, Residential,336.000,3,2,,12.560834465014661,"-70.04405373306274
                                         ",https://kw-aruba.com//listings/koyari-33-f
-Coba Lodo 12-F,Santa Cruz,Sold,329.000,3,2,No,12.516934513907815,"-69.96343457670211
+Coba Lodo 12-F,Santa Cruz,Sold, Residential,329.000,3,2,No,12.516934513907815,"-69.96343457670211
                                         ",https://kw-aruba.com//listings/coba-lodo
-Boton 9 - K,Santa Cruz,New Listing,325.500,4,2,No,12.49642855316839,"-69.96427410812377
+Boton 9 - K,Santa Cruz,New Listing, Residential,325.500,4,2,No,12.49642855316839,"-69.96427410812377
                                         ",https://kw-aruba.com//listings/boton-9-k
-Alto Vista Delight,Noord,Under contract,315.000,2,2,No,12.569405693698208,"-70.02190941543579
+Alto Vista Delight,Noord,Under contract, Residential,315.000,2,2,No,12.569405693698208,"-70.02190941543579
                                         ",https://kw-aruba.com//listings/alto-vista-20
-Seroe Pita 34-L,Paradera,Sold,299.000,3,2,Yes,12.532799264619817,"-69.98505049915313
+Montaña 44,Noord,New Listing, Residential,310.000,4,3,No,12.558096009794046,"-70.0263296958923
+                                        ",https://kw-aruba.com//listings/montana-44
+Seroe Pita 34-L,Paradera,Sold, Residential,299.000,3,2,Yes,12.532799264619817,"-69.98505049915313
                                         ",https://kw-aruba.com//listings/seroe-pita-34-l
-Ayo 26E,Ayo,Sold,293.821,4,4,No,12.53289875989397,"-69.98420828552246
+Ayo 26E,Ayo,Sold, Residential,293.821,4,4,No,12.53289875989397,"-69.98420828552246
                                         ",https://kw-aruba.com//listings/ayo-26e
-Fortheuvelstraat 49,San Nicolas,,292.134,4,3,,,,https://kw-aruba.com//listings/fortheuvelstraat-49
-Papaya Stones & Gardens,Paradera,Reduced in price,285.000,3,2,No,12.545550056433646,"-70.00760787696838
+Fortheuvelstraat 49,San Nicolas,,,292.134,4,3,,,,https://kw-aruba.com//listings/fortheuvelstraat-49
+Papaya Stones & Gardens,Paradera,Reduced in price, Residential,285.000,3,2,No,12.545550056433646,"-70.00760787696838
                                         ",https://kw-aruba.com//listings/papaya-stones-gardens
-Palisiaweg 46,San Nicolas,,280.000,3,3,No,12.450618791790669,"-69.91296881408691
+Palisiaweg 46,San Nicolas,,,280.000,3,3,No,12.450618791790669,"-69.91296881408691
                                         ",https://kw-aruba.com//listings/palesiaweg-49
-"Watapanastraat 5, Oranjestad",Oranjestad,Reduced in price,278.090,8,6,No,12.531377525323867,"-70.02972269029617
+"Watapanastraat 5, Oranjestad",Oranjestad,Reduced in price, Residential,278.090,8,6,No,12.531377525323867,"-70.02972269029617
                                         ",https://kw-aruba.com//listings/watapanastraat-5-oranjestad
-Paradera 117G,Paradera,Sold,269.100,3,2,Yes,12.535590354312623,"-70.00044101448059
+Paradera 117G,Paradera,Sold, Residential,269.100,3,2,Yes,12.535590354312623,"-70.00044101448059
                                         ",https://kw-aruba.com//listings/paradera-117g
-Weststraat 65 Apartmentcomplex,Oranjestad,Under contract,261.234,7,6,No,12.527366240695258,"-70.03847473831176
+Weststraat 65 Apartmentcomplex,Oranjestad,Under contract, Residential,261.234,7,6,No,12.527366240695258,"-70.03847473831176
                                         ",https://kw-aruba.com//listings/weststraat-65-apartmentcomplex
-Paradera 173,Paradera,New Listing,252.809,5,1,No,12.529652052182886,"-69.99863857002258
+Paradera 173,Paradera,New Listing, Residential,252.809,5,1,No,12.529652052182886,"-69.99863857002258
                                         ",https://kw-aruba.com//listings/paradera-173
-Cura Cabai 23,Savaneta,Sold,243.000,3,2,No,12.44483568981796,"-69.93104690284729
+Cura Cabai 23,Savaneta,Sold, Residential,243.000,3,2,No,12.44483568981796,"-69.93104690284729
                                         ",https://kw-aruba.com//listings/cura-cabai-23
-Koeriboeri Residence,Paradera,Under contract,239.000,3,2,No,12.543727805337056,"-69.98397225112915
+Koeriboeri Residence,Paradera,Under contract, Residential,239.000,3,2,No,12.543727805337056,"-69.98397225112915
                                         ",https://kw-aruba.com//listings/koeriboeri-residence
-Boton Residence,Santa Cruz,New Listing,238.764,3,2,No,12.495312998988801,"-69.96645206184387
+Boton Residence,Santa Cruz,New Listing, Residential,238.764,3,2,No,12.495312998988801,"-69.96645206184387
                                         ",https://kw-aruba.com//listings/boton-residence
-Great Hillweg 23,San Nicolas,Under contract,236.000,2,2,No,12.446271000697587,"-69.89939683647152
+Great Hillweg 23,San Nicolas,Under contract, Residential,236.000,2,2,No,12.446271000697587,"-69.89939683647152
                                         ",https://kw-aruba.com//listings/great-hillweg-23
-Pos Abao 32M,Noord,Sold,224.157,2,2,No,12.543298422454246,"-70.0505124923706
+Pos Abao 32M,Noord,Sold, Residential,224.157,2,2,No,12.543298422454246,"-70.0505124923706
                                         ",https://kw-aruba.com//listings/pos-abao-32m
-Cas Ariba 37C,Santa Cruz,Sold,221.910,3,2,No,12.513606432012574,"-69.97223490447998
+Cas Ariba 37C,Santa Cruz,Sold, Residential,221.910,3,2,No,12.513606432012574,"-69.97223490447998
                                         ",https://kw-aruba.com//listings/cas-aruba-37c
-Yanana 9,Oranjestad,,219.101,3,3,,12.52381834882794,"-70.01671665878295
+Yanana 9,Oranjestad,,,219.101,3,3,,12.52381834882794,"-70.01671665878295
                                         ",https://kw-aruba.com//listings/yanana-9
-Isla Esmeralda Lot 18,Tanki Leendert,Sold,217.574,2,2,,12.53842854209878,"-70.01557940216064
+Isla Esmeralda Lot 18,Tanki Leendert,Sold, Residential,217.574,2,2,,12.53842854209878,"-70.01557940216064
                                         ",https://kw-aruba.com//listings/isla-esmeralda-lot-18
-Boegoeroei 32-C,Noord,Sold,215.000,2,2,No,12.55932648563237,"-70.02954298229217
+Boegoeroei 32-C,Noord,Sold, Residential,215.000,2,2,No,12.55932648563237,"-70.02954298229217
                                         ",https://kw-aruba.com//listings/boegoeroei-32-c
-Orcuyo 30,Santa Cruz,Sold,213.000,0,0,,12.515842614506465,"-69.99154144496917
+Orcuyo 30,Santa Cruz,Sold, Residential,213.000,0,0,,12.515842614506465,"-69.99154144496917
                                         ",https://kw-aruba.com//listings/orcuyo-30
-Mabon 5-B,San Nicolas,New Listing,212.922,4,3,No,12.45253598737222,"-69.92832177848815
+Mabon 5-B,San Nicolas,New Listing, Residential,212.922,4,3,No,12.45253598737222,"-69.92832177848815
                                         ",https://kw-aruba.com//listings/mabon
-Seroe Blanco 610,Oranjestad,New Listing,210.674,2,1,Yes,12.528698978607697,"-70.02168947429656
+Seroe Blanco 610,Oranjestad,New Listing, Residential,210.674,2,1,Yes,12.528698978607697,"-70.02168947429656
                                         ",https://kw-aruba.com//listings/sero-blanco-601
-Hooiberg 18-I,Santa Cruz,New Listing,207.023,2,2,No,12.522257784626039,"-69.99618166656494
+Hooiberg 18-I,Santa Cruz,New Listing, Residential,207.023,2,2,No,12.522257784626039,"-69.99618166656494
                                         ",https://kw-aruba.com//listings/hooiberg-residence
-Savaneta 125-G,Savaneta,Under contract,202.247,3,2,No,12.450702603915598,"-69.94600826473236
+Savaneta 125-G,Savaneta,Under contract, Residential,202.247,3,2,No,12.450702603915598,"-69.94600826473236
                                         ",https://kw-aruba.com//listings/savaneta-125-g
-Paradera 117L - 1,Paradera,New Listing,199.000,2,1,No,12.534595410234466,"-69.99994748802185
+Paradera 117L - 1,Paradera,New Listing, Residential,199.000,2,1,No,12.534595410234466,"-69.99994748802185
                                         ",https://kw-aruba.com//listings/paradera-117l-1
-Sabana Grandi 34 E,Santa Cruz,Reduced in price,196.629,3,1,No,12.498547045389548,"-69.98943591089248
+Sabana Grandi 34 E,Santa Cruz,Reduced in price, Residential,196.629,3,1,No,12.498547045389548,"-69.98943591089248
                                         ",https://kw-aruba.com//listings/sabana-grandi-34-E
-Santa Cruz Residence,Santa Cruz,Reduced in price,196.629,4,2,No,12.515460317701331,"-69.98200350971221
+Santa Cruz Residence,Santa Cruz,Reduced in price, Residential,196.629,4,2,No,12.515460317701331,"-69.98200350971221
                                         ",https://kw-aruba.com//listings/santa-cruz-residence
-MACUARIMA 144H,Santa Cruz,Sold,196.600,3,2,No,12.501749627981647,"-69.97281426162719
+MACUARIMA 144H,Santa Cruz,Sold, Residential,196.600,3,2,No,12.501749627981647,"-69.97281426162719
                                         ",https://kw-aruba.com//listings/macuarima-144
-Caya Roland H Lacle 22,Oranjestad,New Listing,190.000,3,2,No,12.521880734141078,"-70.02871149749755
+Caya Roland H Lacle 22,Oranjestad,New Listing, Residential,190.000,3,2,No,12.521880734141078,"-70.02871149749755
                                         ",https://kw-aruba.com//listings/caya-roland-h-lacle-22
-Pos Chiquito 16 B,Pos Chiquito,Sold,182.585,3,1,,12.468878718658015,"-69.97227781982421
+Pos Chiquito 16 B,Pos Chiquito,Sold, Residential,182.585,3,1,,12.468878718658015,"-69.97227781982421
                                         ",https://kw-aruba.com//listings/pos-chiquito-16-b
-Jan Flemming 3-G,Santa Cruz,Under contract,182.584,3,2,No,12.508055169267013,"-69.95596998901367
+Jan Flemming 3-G,Santa Cruz,Under contract, Residential,182.584,3,2,No,12.508055169267013,"-69.95596998901367
                                         ",https://kw-aruba.com//listings/jan-flemming-3-g
-Sabana Liber 486,Noord,Sold,178.090,2,1,Yes,12.55803317682733,"-70.02187722892761
+Sabana Liber 486,Noord,Sold, Residential,178.090,2,1,Yes,12.55803317682733,"-70.02187722892761
                                         ",https://kw-aruba.com//listings/sabana-liber-486
-Coba Lodo 2-G,Santa Cruz,Reduced in price,176.967,3,2,No,12.501896270224432,"-69.95339506835937
+Coba Lodo 2-G,Santa Cruz,Reduced in price, Residential,176.967,3,2,No,12.501896270224432,"-69.95339506835937
                                         ",https://kw-aruba.com//listings/Coba Lodo-2-G
-Wabistraat 2,Oranjestad,Sold,167.977,3,2,No,12.532071376972818,"-70.03079289169311
+Wabistraat 2,Oranjestad,Sold, Residential,167.977,3,2,No,12.532071376972818,"-70.03079289169311
                                         ",https://kw-aruba.com//listings/wabistraat-2
-Weg Seroe Blanco 29 S,San Nicolas,Under contract,150.000,4,3,,12.454536979673854,"-69.90298026771545
+Weg Seroe Blanco 29 S,San Nicolas,Under contract, Residential,150.000,4,3,,12.454536979673854,"-69.90298026771545
                                         ",https://kw-aruba.com//listings/weg-seroe-blanco-29-s
-Caya Frere Fredericus,Oranjestad,,146.067,3,2,No,,,https://kw-aruba.com//listings/caya-frere-federicus
-Kadushi largo 8H,Santa Cruz,Reduced in price,123.596,3,2,No,12.520131631628434,"-69.97134441108703
+Caya Frere Fredericus,Oranjestad,,,146.067,3,2,No,,,https://kw-aruba.com//listings/caya-frere-federicus
+Kadushi largo 8H,Santa Cruz,Reduced in price, Residential,123.596,3,2,No,12.520131631628434,"-69.97134441108703
                                         ",https://kw-aruba.com//listings/kadushi-largo-8h
-Blue Residence Townhouse 2,Eagle Beach,New Listing,1.500.000,4,3,Yes,,,https://kw-aruba.com//listings/blue-residence-2
-Blue Residence Penthouse 1-2,Eagle Beach,,1.223.550,3,4,Yes,12.560724508483478,"-70.05373114318847
+Blue Residence Townhouse 2,Eagle Beach,New Listing, Condominium/Townhouse,1.500.000,4,3,Yes,,,https://kw-aruba.com//listings/blue-residence-2
+Blue Residence Penthouse 1-2,Eagle Beach,,,1.223.550,3,4,Yes,12.560724508483478,"-70.05373114318847
                                         ",https://kw-aruba.com//listings/blue-residence-penthouse-1-2
-Blue Residence Townhouse 4,Eagle Beach,New Listing,1.179.650,4,4,Yes,12.560279445853697,"-70.05360776157379
+Blue Residence Townhouse 4,Eagle Beach,New Listing, Condominium/Townhouse,1.179.650,4,4,Yes,12.560279445853697,"-70.05360776157379
                                         ",https://kw-aruba.com//listings/blue-residence-townhouse-4
-Blue Residence Penthouse 3-5,Eagle Beach,New Listing,1.169.750,3,4,Yes,12.560310862064512,"-70.0535916683197
+Blue Residence Penthouse 3-5,Eagle Beach,New Listing, Condominium/Townhouse,1.169.750,3,4,Yes,12.560310862064512,"-70.0535916683197
                                         ",https://kw-aruba.com//listings/blue-residence-penthouse-3-5
-Blue Residence Penthouse 1-5,Eagle Beach,Sold,1.145.670,3,4,Yes,12.560685238282366,"-70.0537365076065
+Blue Residence Penthouse 1-5,Eagle Beach,Sold, Condominium/Townhouse,1.145.670,3,4,Yes,12.560685238282366,"-70.0537365076065
                                         ",https://kw-aruba.com//listings/blue-residence-penthouse-1-5
-Blue Residence Penthouse 2-2,Eagle Beach,New Listing,1.142.500,3,4,Yes,12.560703564376833,"-70.05369895668026
+Blue Residence Penthouse 2-2,Eagle Beach,New Listing, Condominium/Townhouse,1.142.500,3,4,Yes,12.560703564376833,"-70.05369895668026
                                         ",https://kw-aruba.com//listings/blue-residence-penthouse-2-2
-O Condominium Eagle Beach,Noord,Sold,949.200,3,2,Yes,12.544876562206628,"-70.05983250823441
+O Condominium Eagle Beach,Noord,Sold, Condominium/Townhouse,949.200,3,2,Yes,12.544876562206628,"-70.05983250823441
                                         ",https://kw-aruba.com//listings/o-condominium-eagle-beach
-Oceania unit 423,Eagle Beach,New Listing,890.000,2,2,Yes,12.547979704500731,"-70.05763643951416
+Oceania unit 423,Eagle Beach,New Listing, Condominium/Townhouse,890.000,2,2,Yes,12.547979704500731,"-70.05763643951416
                                         ",https://kw-aruba.com//listings/oceania-unit-423
-Blue Residences unit #221,Eagle Beach,New Listing,826.500,3,3,Yes,12.560127600780088,"-70.05355948181152
+Blue Residences unit #221,Eagle Beach,New Listing, Condominium/Townhouse,826.500,3,3,Yes,12.560127600780088,"-70.05355948181152
                                         ",https://kw-aruba.com//listings/blue-residences-unit-221
-Blue Residence Unit 121,Eagle Beach,New Listing,800.000,3,3,Yes,12.512035332023832,"-70.00901335449218
+Blue Residence Unit 121,Eagle Beach,New Listing, Condominium/Townhouse,800.000,3,3,Yes,12.512035332023832,"-70.00901335449218
                                         ",https://kw-aruba.com//listings/blue-residence-unit-121
-"Blue Residence, Townhouse #5",Oranjestad,Sold,799.000,4,4,Yes,12.560734980535885,"-70.05378478736877
+"Blue Residence, Townhouse #5",Oranjestad,Sold, Condominium/Townhouse,799.000,4,4,Yes,12.560734980535885,"-70.05378478736877
                                         ",https://kw-aruba.com//listings/townhouse
-Porta Al Sole - Model Terracotta,Noord,New Listing,795.000,3,4,Yes,12.582107550759522,"-70.0384425518036
+Porta Al Sole - Model Terracotta,Noord,New Listing, Condominium/Townhouse,795.000,3,4,Yes,12.582107550759522,"-70.0384425518036
                                         ",https://kw-aruba.com//listings/porta-al-sole-style-d
-Porta Al Sole - Model Sepia,Noord,New Listing,760.000,3,4,Yes,12.582285560780093,"-70.03832989902496
+Porta Al Sole - Model Sepia,Noord,New Listing, Condominium/Townhouse,760.000,3,4,Yes,12.582285560780093,"-70.03832989902496
                                         ",https://kw-aruba.com//listings/porta-al-sole-model-sepia
-The Daher Residence,Noord,,748.393,2,3,Yes,12.585138939847996,"-70.04006260604858
+The Daher Residence,Noord,,,748.393,2,3,Yes,12.585138939847996,"-70.04006260604858
                                         ",https://kw-aruba.com//listings/daher-residence
-Acqua Condominiums,Palm Beach,,740.479,2,2,,12.575269778314631,"-70.0421010848999
+Acqua Condominiums,Palm Beach,,,740.479,2,2,,12.575269778314631,"-70.0421010848999
                                         ",https://kw-aruba.com//listings/acqua-condominiums
-Porta Al Sole - Model Aqua,Noord,New Listing,725.000,3,4,Yes,12.582175613429134,"-70.0383191701889
+Porta Al Sole - Model Aqua,Noord,New Listing, Condominium/Townhouse,725.000,3,4,Yes,12.582175613429134,"-70.0383191701889
                                         ",https://kw-aruba.com//listings/porta-al-sole-style
-Porta Al Sole Condos,Noord,New Listing,685.000,3,4,Yes,12.581803886321978,"-70.0379597541809
+Porta Al Sole Condos,Noord,New Listing, Condominium/Townhouse,685.000,3,4,Yes,12.581803886321978,"-70.0379597541809
                                         ",https://kw-aruba.com//listings/portaalsole
-Gold Coast Diamante 194A,Malmok,New Listing,650.000,3,2,Yes,12.598122722764725,"-70.04165047378541
+Gold Coast Diamante 194A,Malmok,New Listing, Condominium/Townhouse,650.000,3,2,Yes,12.598122722764725,"-70.04165047378541
                                         ",https://kw-aruba.com//listings/diamante-194a
-Private Villa at Azure Residences,Eagle Beach,Under contract,595.000,3,2,Yes,12.559046356544203,"-70.05365335912704
+Private Villa at Azure Residences,Eagle Beach,Under contract, Condominium/Townhouse,595.000,3,2,Yes,12.559046356544203,"-70.05365335912704
                                         ",https://kw-aruba.com//listings/private-villa-azure-residences
-Blue Residence 115,Eagle Beach,Sold,545.475,2,2,Yes,12.560734980536088,"-70.0538813468933
+Blue Residence 115,Eagle Beach,Sold, Condominium/Townhouse,545.475,2,2,Yes,12.560734980536088,"-70.0538813468933
                                         ",https://kw-aruba.com//listings/blue-residence-115
-Azure Residence 112,Eagle Beach,Sold,539.077,2,2,Yes,12.560368458441271,"-70.05370968551635
+Azure Residence 112,Eagle Beach,Sold, Condominium/Townhouse,539.077,2,2,Yes,12.560368458441271,"-70.05370968551635
                                         ",https://kw-aruba.com//listings/azure-residence-112
-The Cove Condominiums,Palm Beach,Price upon Request,upon,3,2,Yes,12.575175535155791,"-70.04379087657928
+The Cove Condominiums,Palm Beach,Price upon Request, Condominium/Townhouse,upon,3,2,Yes,12.575175535155791,"-70.04379087657928
                                         ",https://kw-aruba.com//listings/cove-condominiums
-Tierra Del Sol - Las Palmas 32A,Malmok,New Listing,490.000,2,3,Yes,12.602876298229472,"-70.04060441226959
+Tierra Del Sol - Las Palmas 32A,Malmok,New Listing, Condominium/Townhouse,490.000,2,3,Yes,12.602876298229472,"-70.04060441226959
                                         ",https://kw-aruba.com//listings/las-palmas-32-
-Waykiri Condo A-07,Noord,Under contract,475.000,2,2,Yes,12.58433266714311,"-70.036897599411
+Waykiri Condo A-07,Noord,Under contract, Condominium/Townhouse,475.000,2,2,Yes,12.58433266714311,"-70.036897599411
                                         ",https://kw-aruba.com//listings/waykiri-condo-07
-Coral Shell Condominium,Oranjestad,,468.500,1,1,Yes,12.51401229795567,"-70.03220373363494
+Coral Shell Condominium,Oranjestad,,,468.500,1,1,Yes,12.51401229795567,"-70.03220373363494
                                         ",https://kw-aruba.com//listings/coral-shell-condominium
-Blue Residences unit #633,Eagle Beach,New Listing,438.500,1,1,Yes,12.560253265674852,"-70.0536453125
+Blue Residences unit #633,Eagle Beach,New Listing, Condominium/Townhouse,438.500,1,1,Yes,12.560253265674852,"-70.0536453125
                                         ",https://kw-aruba.com//listings/blue-residences-unit-633
-Gold Coast Diamante 233B,Malmok,Reduced in price,385.000,2,2,Yes,12.59762929867554,"-70.04055881471633
+Gold Coast Diamante 233B,Malmok,Reduced in price, Condominium/Townhouse,385.000,2,2,Yes,12.59762929867554,"-70.04055881471633
                                         ",https://kw-aruba.com//listings/diamante-233B
-Diamante 68,Malmok,Under contract,369.000,2,3,Yes,12.599876530142614,"-70.04304522247314
+Diamante 68,Malmok,Under contract, Condominium/Townhouse,369.000,2,3,Yes,12.599876530142614,"-70.04304522247314
                                         ",https://kw-aruba.com//listings/diamante-68
-Gold Coast Diamante 236D,Malmok,,350.000,2,2,Yes,12.597604431123369,"-70.03982657165527
+Gold Coast Diamante 236D,Malmok,,,350.000,2,2,Yes,12.597604431123369,"-70.03982657165527
                                         ",https://kw-aruba.com//listings/diamante-236d
-Gold Coast Diamante 238C,Malmok,New Listing,350.000,2,2,Yes,12.597850488901981,"-70.0398694869995
+Gold Coast Diamante 238C,Malmok,New Listing, Condominium/Townhouse,350.000,2,2,Yes,12.597850488901981,"-70.0398694869995
                                         ",https://kw-aruba.com//listings/diamante-238c
-Gold Coast Diamante 124-C,Malmok,New Listing,350.000,2,2,Yes,12.59907292138561,"-70.0435789820671
+Gold Coast Diamante 124-C,Malmok,New Listing, Condominium/Townhouse,350.000,2,2,Yes,12.59907292138561,"-70.0435789820671
                                         ",https://kw-aruba.com//listings/gold-coast-diamante-124-c
-Gold Coast Diamante 231-D,Noord,New Listing,349.000,2,2,Yes,12.597834783093301,"-70.04119449825286
+Gold Coast Diamante 231-D,Noord,New Listing, Condominium/Townhouse,349.000,2,2,Yes,12.597834783093301,"-70.04119449825286
                                         ",https://kw-aruba.com//listings/diamante-231-d
-Tuscany Residence Townhouse,Noord,Sold,347.000,3,2,Yes,12.581976036775197,"-70.03653215852204
+Tuscany Residence Townhouse,Noord,Sold, Condominium/Townhouse,347.000,3,2,Yes,12.581976036775197,"-70.03653215852204
                                         ",https://kw-aruba.com//listings/tuscany-townhouses
-Diamante 16,Malmok,New Listing,340.000,2,2,Yes,12.599353006808375,"-70.04035228462219
+Diamante 16,Malmok,New Listing, Condominium/Townhouse,340.000,2,2,Yes,12.599353006808375,"-70.04035228462219
                                         ",https://kw-aruba.com//listings/diamante-16
-Harbour House Aruba,Oranjestad,,339.121,2,1,Yes,12.519424655690976,"-70.04060977668762
+Harbour House Aruba,Oranjestad,,,339.121,2,1,Yes,12.519424655690976,"-70.04060977668762
                                         ",https://kw-aruba.com//listings/harbour-house-aruba
-Diamante 124 B Gold Coast Aruba,Malmok,Sold,335.000,2,2,Yes,12.59919594959969,"-70.04354411334991
+Diamante 124 B Gold Coast Aruba,Malmok,Sold, Condominium/Townhouse,335.000,2,2,Yes,12.59919594959969,"-70.04354411334991
                                         ",https://kw-aruba.com//listings/diamante-124-b-gold-coast-aruba
-Harbour House Studio #520,Oranjestad,,295.000,0,1,Yes,12.51924398375174,"-70.04077070922851
+Harbour House Studio #520,Oranjestad,,,295.000,0,1,Yes,12.51924398375174,"-70.04077070922851
                                         ",https://kw-aruba.com//listings/harbour-house-unit-520
-Aracari Residences,Noord,Sold,294.866,0,0,Yes,12.58453685332743,"-70.03730529518127
+Aracari Residences,Noord,Sold, Condominium/Townhouse,294.866,0,0,Yes,12.58453685332743,"-70.03730529518127
                                         ",https://kw-aruba.com//listings/aracari-residences
-Wariruri Condominiums,Noord,Sold,275.800,2,2,Yes,12.587944543782163,"-70.03734218564453
+Wariruri Condominiums,Noord,Sold, Condominium/Townhouse,275.800,2,2,Yes,12.587944543782163,"-70.03734218564453
                                         ",https://kw-aruba.com//listings/wariruri-condominiums
-"Gold Coast condo ""Andicuri""",Malmok,,275.000,1,1,Yes,12.50889834044598,"-70.00970268220901
+"Gold Coast condo ""Andicuri""",Malmok,,,275.000,1,1,Yes,12.50889834044598,"-70.00970268220901
                                         ",https://kw-aruba.com//listings/gold-coast-one-bedroom-apartment-andicuri
-Town House 36-B,Noord,New Listing,268.000,3,1,,12.550045410952329,"-70.03296279878616
+Town House 36-B,Noord,New Listing, Condominium/Townhouse,268.000,3,1,,12.550045410952329,"-70.03296279878616
                                         ",https://kw-aruba.com//listings/town-house-36-b
-Townhouse 1-B,Noord,New Listing,258.000,3,1,Yes,12.549775744257513,"-70.03294670553204
+Townhouse 1-B,Noord,New Listing, Condominium/Townhouse,258.000,3,1,Yes,12.549775744257513,"-70.03294670553204
                                         ",https://kw-aruba.com//listings/townhouse-1-b
-Commandeurs Condominium,Oranjestad,New Listing,205.000,1,1,Yes,12.538622291786192,"-70.0351863500595
+Commandeurs Condominium,Oranjestad,New Listing, Condominium/Townhouse,205.000,1,1,Yes,12.538622291786192,"-70.0351863500595
                                         ",https://kw-aruba.com//listings/commandeurs
-Bushiri property land,Oranjestad,Sold,4.157.303,0,0,,12.53719272985753,"-70.04490131111145
+Bushiri property land,Oranjestad,Sold, Land,4.157.303,0,0,,12.53719272985753,"-70.04490131111145
                                         ",https://kw-aruba.com//listings/bushiri-property-land
-Camacuri Property Land,Oranjestad,,4.000.000,0,0,,12.505352813276144,"-70.01783245773315
+Camacuri Property Land,Oranjestad,,,4.000.000,0,0,,12.505352813276144,"-70.01783245773315
                                         ",https://kw-aruba.com//listings/camacuri-property-land
-Sabana Liber 24.060m2 property land,Noord,Under contract,1.743.674,0,0,,12.559436442761179,"-70.02066487045288
+Sabana Liber 24.060m2 property land,Noord,Under contract, Land,1.743.674,0,0,,12.559436442761179,"-70.02066487045288
                                         ",https://kw-aruba.com//listings/sabana-liber-land
-Bella Vista lot 16,Malmok,,1.100.000,0,0,,12.602871063062748,"-70.04725092620849
+Bella Vista lot 16,Malmok,,,1.100.000,0,0,,12.602871063062748,"-70.04725092620849
                                         ",https://kw-aruba.com//listings/bella-vista-lot-16
-Bella Vista lot 17,Malmok,,1.100.000,0,0,,12.602933885056933,"-70.04718655319213
+Bella Vista lot 17,Malmok,,,1.100.000,0,0,,12.602933885056933,"-70.04718655319213
                                         ",https://kw-aruba.com//listings/bella-vista-lot-17
-Ponton 13726m2 Property land,Oranjestad,,925.348,0,0,,12.53520285023372,"-70.03392034740448
+Ponton 13726m2 Property land,Oranjestad,,,925.348,0,0,,12.53520285023372,"-70.03392034740448
                                         ",https://kw-aruba.com//listings/ponton-13726m2-property-land
-Property land Modanza,Tanki Leendert,New Listing,802.466,0,0,,12.534490679055425,"-70.01637333602906
+Property land Modanza,Tanki Leendert,New Listing, Land,802.466,0,0,,12.534490679055425,"-70.01637333602906
                                         ",https://kw-aruba.com//listings/property-land-modanza
-Tierra del Sol - La Colina 19,Malmok,Sold,750.000,0,0,,12.60606449492852,"-70.04588836402893
+Tierra del Sol - La Colina 19,Malmok,Sold, Land,750.000,0,0,,12.60606449492852,"-70.04588836402893
                                         ",https://kw-aruba.com//listings/la-colina-19
-Alto Vista Property Land 14.000 m2,Noord,Reduced in price,707.865,0,0,,12.567248514614741,"-70.01269334526062
+Alto Vista Property Land 14.000 m2,Noord,Reduced in price, Land,707.865,0,0,,12.567248514614741,"-70.01269334526062
                                         ",https://kw-aruba.com//listings/alto-vista-property-land-14000-m2
-Property land Parkietenbos,Oranjestad,New Listing,500.933,0,0,,12.490531249783881,"-70.00230246753692
+Property land Parkietenbos,Oranjestad,New Listing, Land,500.933,0,0,,12.490531249783881,"-70.00230246753692
                                         ",https://kw-aruba.com//listings/property-land-parkietenbos
-Commercial land at Palm Beach,Palm Beach,,438.202,0,0,,12.565372748911015,"-70.03884622426033
+Commercial land at Palm Beach,Palm Beach,,,438.202,0,0,,12.565372748911015,"-70.03884622426033
                                         ",https://kw-aruba.com//listings/palm-beach-land
-Catalina Estates,Malmok,New Listing,425.000,0,0,,12.605216407068552,"-70.04808777542114
+Catalina Estates,Malmok,New Listing, Land,425.000,0,0,,12.605216407068552,"-70.04808777542114
                                         ",https://kw-aruba.com//listings/catalina-estates
-Santa Lucia 10.500m2 property land,Santa Cruz,New Listing,383.426,0,0,,12.522320626319965,"-69.96292227478027
+Santa Lucia 10.500m2 property land,Santa Cruz,New Listing, Land,383.426,0,0,,12.522320626319965,"-69.96292227478027
                                         ",https://kw-aruba.com//listings/santa-lucia-10500m2-property-land-2
-Santa Lucia 7998 m2 property land,Santa Cruz,New Listing,292.061,0,0,,12.522278731859064,"-69.96290081710815
+Santa Lucia 7998 m2 property land,Santa Cruz,New Listing, Land,292.061,0,0,,12.522278731859064,"-69.96290081710815
                                         ",https://kw-aruba.com//listings/santa-lucia-7998-m2-property-land
-Private land at Sero di Turibana Lot 8,Noord,Sold,232.800,0,0,,12.573038649844785,"-70.02838391176685
+Private land at Sero di Turibana Lot 8,Noord,Sold, Land,232.800,0,0,,12.573038649844785,"-70.02838391176685
                                         ",https://kw-aruba.com//listings/sero-di-turibana
-Rooi Santo Noord,Noord,New Listing,224.000,0,0,,12.584714861663414,"-70.03834599227905
+Rooi Santo Noord,Noord,New Listing, Land,224.000,0,0,,12.584714861663414,"-70.03834599227905
                                         ",https://kw-aruba.com//listings/rooi-santo-noord
-4239M2 Property Land Coba Lodo,Santa Cruz,,222.983,0,0,,12.515387000441029,"-69.96164554328918
+4239M2 Property Land Coba Lodo,Santa Cruz,,,222.983,0,0,,12.515387000441029,"-69.96164554328918
                                         ",https://kw-aruba.com//listings/4239m2-property-land-coba-lodo
-Bringamosa 2228 Property land,Santa Cruz,,200.269,0,0,,12.493773212073414,"-69.96712797851562
+Alto Vista land,Noord,New Listing, Land,212.731,0,0,,12.563640958653021,"-70.01600319118499
+                                        ",https://kw-aruba.com//listings/alto-vista-land
+Bringamosa 2228 Property land,Santa Cruz,,,200.269,0,0,,12.493773212073414,"-69.96712797851562
                                         ",https://kw-aruba.com//listings/bringamosa-2228-property-land
-Property land Bringamosa 2027m2,Santa Cruz,,182.202,0,0,,12.492822624757196,"-69.96757322521209
+Property land Bringamosa 2027m2,Santa Cruz,,,182.202,0,0,,12.492822624757196,"-69.96757322521209
                                         ",https://kw-aruba.com//listings/property-land-bringamosa
-Morgenster z/n,Santa Cruz,,168.539,0,0,,12.514758565927565,"-70.00904554100036
+Morgenster z/n,Santa Cruz,,,168.539,0,0,,12.514758565927565,"-70.00904554100036
                                         ",https://kw-aruba.com//listings/morgenster-zn
-Ayo Property Land 1712m2 - Plot 1,Ayo,Sold,168.314,0,0,,12.53482581867866,"-69.97453623981475
+Ayo Property Land 1712m2 - Plot 1,Ayo,Sold, Land,168.314,0,0,,12.53482581867866,"-69.97453623981475
                                         ",https://kw-aruba.com//listings/ayo-property-land-1712m2-plot-1
-Property land Bubali #2,Eagle Beach,Sold,163.530,0,0,,12.550304604888069,"-70.04308813781738
+Property land Bubali #2,Eagle Beach,Sold, Land,163.530,0,0,,12.550304604888069,"-70.04308813781738
                                         ",https://kw-aruba.com//listings/property-land-bubali-2
-Seroe Blanco Property Land,Oranjestad,New Listing,151.109,0,0,,,,https://kw-aruba.com//listings/seroe-blanco-property-land
-Kurimiauw lot D950,Noord,Under contract,150.200,2,2,,12.578285541132276,"-70.0292050239563
+Seroe Blanco Property Land,Oranjestad,New Listing, Land,151.109,0,0,,,,https://kw-aruba.com//listings/seroe-blanco-property-land
+Kurimiauw lot D950,Noord,Under contract, Land,150.200,2,2,,12.578285541132276,"-70.0292050239563
                                         ",https://kw-aruba.com//listings/kurimiauw-lot-d950
-Ayo Property Land 1262m2 - Plot 2,Ayo,Sold,141.088,0,0,,12.535323290753155,"-69.9742733833313
+Ayo Property Land 1262m2 - Plot 2,Ayo,Sold, Land,141.088,0,0,,12.535323290753155,"-69.9742733833313
                                         ",https://kw-aruba.com//listings/ayo-property-land-1262m2-plot-2
-San Fuego property Lot 3,Santa Cruz,Under contract,105.600,0,0,,12.501047838953017,"-69.95488637657161
+San Fuego property Lot 3,Santa Cruz,Under contract, Land,105.600,0,0,,12.501047838953017,"-69.95488637657161
                                         ",https://kw-aruba.com//listings/san-fuego-property-lot-3
-Land Matadera Noord Aruba,Noord,,100.724,0,0,,12.551309960713342,"-70.02783173294067
-                                        ",https://kw-aruba.com//listings/land-matadera-noord-aruba
-Property in Noord lot D163,Noord,Under contract,96.725,0,0,,12.56582958354983,"-70.02908700675964
+Land Matadera,Noord,,,99.532,0,0,,12.552043030193598,"-70.02467745513916
+                                        ",https://kw-aruba.com//listings/land-matadera
+Property in Noord lot D163,Noord,Under contract, Land,96.725,0,0,,12.56582958354983,"-70.02908700675964
                                         ",https://kw-aruba.com//listings/property-noord-d163
-San Fuego property Lot 2,Santa Cruz,Under contract,91.040,0,0,,12.501094974096686,"-69.95497757167816
+San Fuego property Lot 2,Santa Cruz,Under contract, Land,91.040,0,0,,12.501094974096686,"-69.95497757167816
                                         ",https://kw-aruba.com//listings/san-fuego-property
-Tamarijn Homes and Garden - Baranca 39,Paradera,,81.500,0,0,,,,https://kw-aruba.com//listings/baranca-39
-AVAILABLE AGAIN! Property land Plots Noord - Napa Valley,Noord,New Listing,72.510,0,0,,12.550084682777596,"-70.03219300479886
+Tamarijn Homes and Garden - Baranca 39,Paradera,,,81.500,0,0,,,,https://kw-aruba.com//listings/baranca-39
+AVAILABLE AGAIN! Property land Plots Noord - Napa Valley,Noord,New Listing, Land,72.510,0,0,,12.550084682777596,"-70.03219300479886
                                         ",https://kw-aruba.com//listings/property-land-plots-noord-napa-valley
-Jaburibari Residence #2,Paradera,Sold,48.449,0,0,,,,https://kw-aruba.com//listings/jaburibari-residence-2
-Boutique Hotel OceanZ,Malmok,,9.500.000,17,13,Yes,12.600103638318503,"-70.04983591523595
+Jaburibari Residence #2,Paradera,Sold, Land,48.449,0,0,,,,https://kw-aruba.com//listings/jaburibari-residence-2
+Boutique Hotel OceanZ,Malmok,,,9.500.000,17,13,Yes,12.600103638318503,"-70.04983591523595
                                         ",https://kw-aruba.com//listings/hotel-oceanz
-Gray Door Apartments (Commercial Investment),Noord,Reduced in price,3.100.000,13,14,Yes,12.569209349263728,"-70.03050857753753
+Gray Door Apartments (Commercial Investment),Noord,Reduced in price, Commercial,3.100.000,13,14,Yes,12.569209349263728,"-70.03050857753753
                                         ",https://kw-aruba.com//listings/gray-door-apartments
-Lux Villas by GG,Noord,,2.750.000,18,18,Yes,12.552273423027449,"-70.03662937850952
+Lux Villas by GG,Noord,,,2.750.000,18,18,Yes,12.552273423027449,"-70.03662937850952
                                         ",https://kw-aruba.com//listings/lux-villas-gg
-Privada Villa Suites,Noord,New Listing,1.750.000,8,8,Yes,12.54508925852391,"-70.04527682037353
+Privada Villa Suites,Noord,New Listing, Commercial,1.750.000,8,8,Yes,12.54508925852391,"-70.04527682037353
                                         ",https://kw-aruba.com//listings/Privada-Villa-Suites
-Island Yoga Building,Palm Beach,New Listing,1.450.000,0,5,No,12.564237858200068,"-70.03545188875198
+Island Yoga Building,Palm Beach,New Listing, Commercial,1.450.000,0,5,No,12.564237858200068,"-70.03545188875198
                                         ",https://kw-aruba.com//listings/IslandYoga
-Tropical Boutique Hotel,Oranjestad,Sold,1.325.000,12,12,Yes,12.528447617956878,"-70.0368064043045
+Tropical Boutique Hotel,Oranjestad,Sold, Commercial,1.325.000,12,12,Yes,12.528447617956878,"-70.0368064043045
                                         ",https://kw-aruba.com//listings/tropical-boutique-hotel
-Salina Cerca villa and apartments,Noord,Under contract,995.000,7,6,Yes,12.578662508994416,"-70.0359588262558
+Salina Cerca villa and apartments,Noord,Under contract, Commercial,995.000,7,6,Yes,12.578662508994416,"-70.0359588262558
                                         ",https://kw-aruba.com//listings/salina-cerca-villa-and-apartments
-Commercial Industrial Building,Oranjestad,,955.056,0,0,No,12.51325031685309,"-70.02053612442016
+Commercial Industrial Building,Oranjestad,,,955.056,0,0,No,12.51325031685309,"-70.02053612442016
                                         ",https://kw-aruba.com//listings/commercial-industrial-building
-WILHELMINA STRAAT 102,Oranjestad,,955.000,0,0,,12.517900723193646,"-70.03038519592285
+WILHELMINA STRAAT 102,Oranjestad,,,955.000,0,0,,12.517900723193646,"-70.03038519592285
                                         ",https://kw-aruba.com//listings/wilhelmina-straat-102
-Koyari Boutique Apartments,Noord,Under contract,939.000,8,8,Yes,12.558776699283268,"-70.0454162952423
+Koyari Boutique Apartments,Noord,Under contract, Commercial,939.000,8,8,Yes,12.558776699283268,"-70.0454162952423
                                         ",https://kw-aruba.com//listings/koyari-apartments
-Cariñas apartments Palm Beach,Noord,,853.000,7,6,No,12.573345640304296,"-70.04068756074905
+Cariñas apartments Palm Beach,Noord,,,853.000,7,6,No,12.573345640304296,"-70.04068756074905
                                         ",https://kw-aruba.com//listings/carinas-apartments-palm-beach
-Monaco Vacation House,Oranjestad,,780.000,8,8,Yes,12.526792820888476,"-70.02164924116134
+Monaco Vacation House,Oranjestad,,,850.000,8,8,Yes,12.526792820888476,"-70.02164924116134
                                         ",https://kw-aruba.com//listings/monaco-vacation-house
-Beatrixstraat Apartment Complex,Oranjestad,,650.000,6,6,Yes,12.515758823474618,"-70.03291183681488
+Beatrixstraat Apartment Complex,Oranjestad,,,650.000,6,6,Yes,12.515758823474618,"-70.03291183681488
                                         ",https://kw-aruba.com//listings/beatrixstraat-apartment-complex
-Bubali 107 F,Noord,New Listing,499.900,8,7,No,12.551734094024456,"-70.04375332565307
+Bubali 107 F,Noord,New Listing, Commercial,499.900,8,7,No,12.551734094024456,"-70.04375332565307
                                         ",https://kw-aruba.com//listings/bubali-107-f
-"Office building ""The Vault""",Oranjestad,,449.438,0,1,,12.51936181329169,"-70.03432267875671
+"Office building ""The Vault""",Oranjestad,,,449.438,0,1,,12.51936181329169,"-70.03432267875671
                                         ",https://kw-aruba.com//listings/vault-2
-Commercial Ierlandstraat,Oranjestad,New Listing,421.349,4,3,No,12.531437746484407,"-70.0470175740242
+Commercial Ierlandstraat,Oranjestad,New Listing, Commercial,421.349,4,3,No,12.531437746484407,"-70.0470175740242
                                         ",https://kw-aruba.com//listings/commercial-ierlandstraat
-Apartment Complex Bubali 79-D,Eagle Beach,Sold,389.000,8,6,No,12.550398857163396,"-70.04308277339935
+Apartment Complex Bubali 79-D,Eagle Beach,Sold, Commercial,389.000,8,6,No,12.550398857163396,"-70.04308277339935
                                         ",https://kw-aruba.com//listings/apartment-complex-bubali-79-d-2
-Concessielaan 8,Oranjestad,Reduced in price,235.955,0,4,,12.522037838576841,"-70.03370040626525
+Concessielaan 8,Oranjestad,Reduced in price, Commercial,235.955,0,4,,12.522037838576841,"-70.03370040626525
                                         ",https://kw-aruba.com//listings/concessielaan-8
-Tanki Flip Commercial Building,Noord,Price upon Request,upon,6,0,,12.546144379792658,"-70.03040665359497
+Tanki Flip Commercial Building,Noord,Price upon Request, Commercial,upon,6,0,,12.546144379792658,"-70.03040665359497
                                         ",https://kw-aruba.com//listings/tanki-flip-780m2-commercial-space
-Esmeralda 34-E,Malmok,Rented,2.500,3,2,No,12.594075831900323,"-70.04241758556365
+Esmeralda 34-E,Malmok,Rented, Residential,2.500,3,2,No,12.594075831900323,"-70.04241758556365
                                         ",https://kw-aruba.com//listings/esmeralda-34-e
-Paradera 117G,Paradera,Rented,2.000,3,2,Yes,12.534828436955243,"-70.00005477638244
+Paradera 117G,Paradera,Rented, Residential,2.000,3,2,Yes,12.534828436955243,"-70.00005477638244
                                         ",https://kw-aruba.com//listings/paradera-117g-2
-Bushiri 90,Noord,Rented,2.000,3,2,No,12.541737976193227,"-70.0500618812561
+Bushiri 90,Noord,Rented, Residential,2.000,3,2,No,12.541737976193227,"-70.0500618812561
                                         ",https://kw-aruba.com//listings/bushiri-90
-Casibari 86,Paradera,Rented,1.700,3,2,No,12.533584752580351,"-69.99808603496551
+Casibari 86,Paradera,Rented, Residential,1.700,3,2,No,12.533584752580351,"-69.99808603496551
                                         ",https://kw-aruba.com//listings/casibari-86
-Esmeralda 34-D,Noord,Rented,1.700,3,2,No,12.594808779354617,"-70.042658984375
+Esmeralda 34-D,Noord,Rented, Residential,1.700,3,2,No,12.594808779354617,"-70.042658984375
                                         ",https://kw-aruba.com//listings/esmeralda-34-d
-Primavera Home,Oranjestad,New Listing,1.685,4,3,No,12.512841831212317,"-70.00992530555725
+Primavera Home,Oranjestad,New Listing, Residential,1.685,4,3,No,12.512841831212317,"-70.00992530555725
                                         ",https://kw-aruba.com//listings/primavera-home-2
-Papaya 9 Y,Paradera,Rented,1.658,3,1,Yes,12.543225113109976,"-70.01172775001525
+Papaya 9 Y,Paradera,Rented, Residential,1.658,3,1,Yes,12.543225113109976,"-70.01172775001525
                                         ",https://kw-aruba.com//listings/papaya
-BELGIESTRAAT35,Oranjestad,Rented,1.600,3,2,No,12.531160205366815,"-70.04302376480102
+BELGIESTRAAT35,Oranjestad,Rented, Residential,1.600,3,2,No,12.531160205366815,"-70.04302376480102
                                         ",https://kw-aruba.com//listings/belgiestraat35
-Villa Paraiso Noord,Noord,Rented,1.580,2,2,No,12.565656798051366,"-70.03022426338192
+Villa Paraiso Noord,Noord,Rented, Residential,1.580,2,2,No,12.565656798051366,"-70.03022426338192
                                         ",https://kw-aruba.com//listings/villa-paraiso-noord
-Bubali Apartment #3,Eagle Beach,Rented,1.500,2,1,Yes,12.551503700707567,"-70.04866176815032
+Bubali Apartment #3,Eagle Beach,Rented, Residential,1.500,2,1,Yes,12.551503700707567,"-70.04866176815032
                                         ",https://kw-aruba.com//listings/bubali-apartment-3
-Vigia 28,Paradera,Rented,1.404,2,2,No,12.540669745784752,"-70.0013797876358
+Vigia 28,Paradera,Rented, Residential,1.404,2,2,No,12.540669745784752,"-70.0013797876358
                                         ",https://kw-aruba.com//listings/vigia-28
-Fortheuvelstraat 49,San Nicolas,New Listing,1.404,3,2,No,12.434122991273203,"-69.88811546535491
+Fortheuvelstraat 49,San Nicolas,New Listing, Residential,1.404,3,2,No,12.434122991273203,"-69.88811546535491
                                         ",https://kw-aruba.com//listings/fortheuvelstraat-49-2
-Wayaca 420,Oranjestad,Rented,1.400,2,2,No,12.504194775849095,"-69.99953376737056
+Wayaca 420,Oranjestad,Rented, Residential,1.400,2,2,No,12.504194775849095,"-69.99953376737056
                                         ",https://kw-aruba.com//listings/wayaca-420
-Westpunt 50,Noord,Rented,1.264,2,1,No,12.595938984309488,"-70.0376425930542
+Westpunt 50,Noord,Rented, Residential,1.264,2,1,No,12.595938984309488,"-70.0376425930542
                                         ",https://kw-aruba.com//listings/westpunt50
-Savaneta Residence,Savaneta,Rented,1.095,2,2,No,12.457554153542432,"-69.9510239955902
+Savaneta Residence,Savaneta,Rented, Residential,1.095,2,2,No,12.457554153542432,"-69.9510239955902
                                         ",https://kw-aruba.com//listings/savaneta-residence
-Paradera 3-Bedroom Home,Paradera,Rented,1.068,3,2,No,12.539622456769523,"-70.00531727046966
+Paradera 3-Bedroom Home,Paradera,Rented, Residential,1.068,3,2,No,12.539622456769523,"-70.00531727046966
                                         ",https://kw-aruba.com//listings/paradera-3-bedroom-home
-Pos Chiquito Home Residence,Pos Chiquito,New Listing,1.011,0,0,,12.465348356892333,"-69.9584805366516
+Pos Chiquito Home Residence,Pos Chiquito,New Listing, Residential,1.011,0,0,,12.465348356892333,"-69.9584805366516
                                         ",https://kw-aruba.com//listings/Pos Chiquito-home-residence
-Dominicanessenstraat 23,Oranjestad,New Listing,899,1,1,No,12.522306225099781,"-70.0297454890728
+Dominicanessenstraat 23,Oranjestad,Rented, Residential,899,1,1,No,12.522306225099781,"-70.0297454890728
                                         ",https://kw-aruba.com//listings/dominicanessenstraat
-Nune Apartment #1,Paradera,Rented,843,1,1,No,12.538313339513186,"-70.00703924865722
+Nune Apartment #1,Paradera,Rented, Residential,843,1,1,No,12.538313339513186,"-70.00703924865722
                                         ",https://kw-aruba.com//listings/nune-apartment-1-2
-Salina Cerca Townhouse,Noord,Rented,2.400,3,2,Yes,12.581431534490386,"-70.03778206792298
+Salina Cerca Townhouse,Noord,Rented, Condominium/Townhouse,2.400,3,2,Yes,12.581431534490386,"-70.03778206792298
                                         ",https://kw-aruba.com//listings/salina-cerca-townhouse
-Harbour House Studio 422S,Oranjestad,,2.150,0,1,Yes,12.519367050158875,"-70.04092091293334
+Harbour House Studio 422S,Oranjestad,,,2.150,0,1,Yes,12.519367050158875,"-70.04092091293334
                                         ",https://kw-aruba.com//listings/harbour-house-studio-422s
-Aruba Breeze Townhouse,Noord,Rented,2.000,2,2,Yes,,,https://kw-aruba.com//listings/aruba-breeze-townhouse
-Gold Coast Villa,Noord,Rented,1.800,2,2,Yes,,,https://kw-aruba.com//listings/gold-coast-villa
-Diamante 189H,Malmok,Rented,1.350,1,1,Yes,12.599206420083334,"-70.04330271453857
+Aruba Breeze Townhouse,Noord,Rented, Condominium/Townhouse,2.000,2,2,Yes,,,https://kw-aruba.com//listings/aruba-breeze-townhouse
+Gold Coast Villa,Noord,Rented, Condominium/Townhouse,1.800,2,2,Yes,,,https://kw-aruba.com//listings/gold-coast-villa
+Diamante 189H,Malmok,Rented, Condominium/Townhouse,1.350,1,1,Yes,12.599206420083334,"-70.04330271453857
                                         ",https://kw-aruba.com//listings/diamante-189h
-Boutique Hotel OceanZ,Malmok,,9.500.000,17,13,Yes,12.600103638318503,"-70.04983591523595
+Boutique Hotel OceanZ,Malmok,,,9.500.000,17,13,Yes,12.600103638318503,"-70.04983591523595
                                         ",https://kw-aruba.com//listings/hotel-oceanz
-Gray Door Apartments (Commercial Investment),Noord,Reduced in price,3.100.000,13,14,Yes,12.569209349263728,"-70.03050857753753
+Gray Door Apartments (Commercial Investment),Noord,Reduced in price, Commercial,3.100.000,13,14,Yes,12.569209349263728,"-70.03050857753753
                                         ",https://kw-aruba.com//listings/gray-door-apartments
-Lux Villas by GG,Noord,,2.750.000,18,18,Yes,12.552273423027449,"-70.03662937850952
+Lux Villas by GG,Noord,,,2.750.000,18,18,Yes,12.552273423027449,"-70.03662937850952
                                         ",https://kw-aruba.com//listings/lux-villas-gg
-Privada Villa Suites,Noord,New Listing,1.750.000,8,8,Yes,12.54508925852391,"-70.04527682037353
+Privada Villa Suites,Noord,New Listing, Commercial,1.750.000,8,8,Yes,12.54508925852391,"-70.04527682037353
                                         ",https://kw-aruba.com//listings/Privada-Villa-Suites
-Island Yoga Building,Palm Beach,New Listing,1.450.000,0,5,No,12.564237858200068,"-70.03545188875198
+Island Yoga Building,Palm Beach,New Listing, Commercial,1.450.000,0,5,No,12.564237858200068,"-70.03545188875198
                                         ",https://kw-aruba.com//listings/IslandYoga
-Tropical Boutique Hotel,Oranjestad,Sold,1.325.000,12,12,Yes,12.528447617956878,"-70.0368064043045
+Tropical Boutique Hotel,Oranjestad,Sold, Commercial,1.325.000,12,12,Yes,12.528447617956878,"-70.0368064043045
                                         ",https://kw-aruba.com//listings/tropical-boutique-hotel
-Salina Cerca villa and apartments,Noord,Under contract,995.000,7,6,Yes,12.578662508994416,"-70.0359588262558
+Salina Cerca villa and apartments,Noord,Under contract, Commercial,995.000,7,6,Yes,12.578662508994416,"-70.0359588262558
                                         ",https://kw-aruba.com//listings/salina-cerca-villa-and-apartments
-Commercial Industrial Building,Oranjestad,,955.056,0,0,No,12.51325031685309,"-70.02053612442016
+Commercial Industrial Building,Oranjestad,,,955.056,0,0,No,12.51325031685309,"-70.02053612442016
                                         ",https://kw-aruba.com//listings/commercial-industrial-building
-WILHELMINA STRAAT 102,Oranjestad,,955.000,0,0,,12.517900723193646,"-70.03038519592285
+WILHELMINA STRAAT 102,Oranjestad,,,955.000,0,0,,12.517900723193646,"-70.03038519592285
                                         ",https://kw-aruba.com//listings/wilhelmina-straat-102
-Koyari Boutique Apartments,Noord,Under contract,939.000,8,8,Yes,12.558776699283268,"-70.0454162952423
+Koyari Boutique Apartments,Noord,Under contract, Commercial,939.000,8,8,Yes,12.558776699283268,"-70.0454162952423
                                         ",https://kw-aruba.com//listings/koyari-apartments
-Cariñas apartments Palm Beach,Noord,,853.000,7,6,No,12.573345640304296,"-70.04068756074905
+Cariñas apartments Palm Beach,Noord,,,853.000,7,6,No,12.573345640304296,"-70.04068756074905
                                         ",https://kw-aruba.com//listings/carinas-apartments-palm-beach
-Monaco Vacation House,Oranjestad,,780.000,8,8,Yes,12.526792820888476,"-70.02164924116134
+Monaco Vacation House,Oranjestad,,,850.000,8,8,Yes,12.526792820888476,"-70.02164924116134
                                         ",https://kw-aruba.com//listings/monaco-vacation-house
-Beatrixstraat Apartment Complex,Oranjestad,,650.000,6,6,Yes,12.515758823474618,"-70.03291183681488
+Beatrixstraat Apartment Complex,Oranjestad,,,650.000,6,6,Yes,12.515758823474618,"-70.03291183681488
                                         ",https://kw-aruba.com//listings/beatrixstraat-apartment-complex
-Bubali 107 F,Noord,New Listing,499.900,8,7,No,12.551734094024456,"-70.04375332565307
+Bubali 107 F,Noord,New Listing, Commercial,499.900,8,7,No,12.551734094024456,"-70.04375332565307
                                         ",https://kw-aruba.com//listings/bubali-107-f
-"Office building ""The Vault""",Oranjestad,,449.438,0,1,,12.51936181329169,"-70.03432267875671
+"Office building ""The Vault""",Oranjestad,,,449.438,0,1,,12.51936181329169,"-70.03432267875671
                                         ",https://kw-aruba.com//listings/vault-2
-Commercial Ierlandstraat,Oranjestad,New Listing,421.349,4,3,No,12.531437746484407,"-70.0470175740242
+Commercial Ierlandstraat,Oranjestad,New Listing, Commercial,421.349,4,3,No,12.531437746484407,"-70.0470175740242
                                         ",https://kw-aruba.com//listings/commercial-ierlandstraat
-Apartment Complex Bubali 79-D,Eagle Beach,Sold,389.000,8,6,No,12.550398857163396,"-70.04308277339935
+Apartment Complex Bubali 79-D,Eagle Beach,Sold, Commercial,389.000,8,6,No,12.550398857163396,"-70.04308277339935
                                         ",https://kw-aruba.com//listings/apartment-complex-bubali-79-d-2
-Concessielaan 8,Oranjestad,Reduced in price,235.955,0,4,,12.522037838576841,"-70.03370040626525
+Concessielaan 8,Oranjestad,Reduced in price, Commercial,235.955,0,4,,12.522037838576841,"-70.03370040626525
                                         ",https://kw-aruba.com//listings/concessielaan-8
-Tanki Flip Commercial Building,Noord,Price upon Request,upon,6,0,,12.546144379792658,"-70.03040665359497
+Tanki Flip Commercial Building,Noord,Price upon Request, Commercial,upon,6,0,,12.546144379792658,"-70.03040665359497
                                         ",https://kw-aruba.com//listings/tanki-flip-780m2-commercial-space

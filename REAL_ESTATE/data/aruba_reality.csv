@@ -1,313 +1,645 @@
-name,location,property,price,bedrooms,bathrooms,Pool,Latitude,Longitude,link
-CASA Distinct,Malmok Catalina 14,,"2,500,000",5,4.5,Pool,12.607879575927376,"-70.04399573409921
+name,location,property_status,property_type,price,bedrooms,bathrooms,Pool,Latitude,Longitude,link
+CASA Distinct,Malmok Catalina 14,,,"2,500,000",5,4.5,Pool,12.607879575927376,"-70.04399573409921
                 ",https://aruba-realty.com/property/details/casa-distinct
-Casa Coral Pyramid Penthouse,Oranjestad,Sold,"2,500,000",4,5,Pool,12.514584127517502,"-70.033214386726
+Casa Coral Pyramid Penthouse,Oranjestad,Sold,"
+                                    Houses for Sale
+                                ","2,500,000",4,5,Pool,12.514584127517502,"-70.033214386726
                 ",https://aruba-realty.com/property/details/casa-coral-pyramid
-Casa Coral Shell 3-CD,Oranjestad,New Listing,"2,049,111",4,4,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell 3-CD,Oranjestad,New Listing,"
+                                    Houses for Sale
+                                ","2,049,111",4,4,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-c-1-1-4
-Casa Coral Shell GF-C,Oranjestad,New Listing,"1,973,111",3,3.5,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell GF-C,Oranjestad,New Listing,"
+                                    Houses for Sale
+                                ","1,973,111",3,3.5,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-b-1-2-2
-CASA Atlantis Model H-I,Eagle Beach,New Listing,"1,800,000",5,5.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Model H-I,Eagle Beach,New Listing,"
+                                    Houses for Sale
+                                ","1,800,000",5,5.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-3-3-3
-CASA Atlantis Penthouses,Eagle Beach,New Listing,"1,800,000",5,5.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Penthouses,Eagle Beach,New Listing,"
+                                    Houses for Sale
+                                ","1,800,000",5,5.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-3-3-3-3
-CASA Blue Residence Penthouse PH 3-6,Eagle Beach Eagle Beach Aruba,,"1,585,750",5,6,Pool,12.561412619756899,"-70.05383686400148
+CASA Blue Residence Penthouse PH 3-6,Eagle Beach Eagle Beach Aruba,,,"1,585,750",5,6,Pool,12.561412619756899,"-70.05383686400148
                 ",https://aruba-realty.com/property/details/casa-blue-tower-penthouse-3-2-3-2
-Casa Coral Shell 1-E/2-E LOFT,Oranjestad,New Listing,"1,398,400",2,4,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell 1-E/2-E LOFT,Oranjestad,New Listing,"
+                                    Houses for Sale
+                                ","1,398,400",2,4,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-c-1-1-2-2
-CASA Atlantis Model D,Eagle Beach,New Listing,"1,329,780",3,3.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Model D,Eagle Beach,New Listing,"
+                                    Houses for Sale
+                                ","1,329,780",3,3.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-3-3
-CASA Blue Residence Penthouse PH 1-2,Eagle Beach Eagle Beach Aruba,,"1,255,000",3,4,Pool,12.561412619756899,"-70.05383686400148
+CASA Blue Residence Penthouse PH 1-2,Eagle Beach Eagle Beach Aruba,,,"1,255,000",3,4,Pool,12.561412619756899,"-70.05383686400148
                 ",https://aruba-realty.com/property/details/casa-blue-tower-penthouse-3-2-3-2-3
-CASA Blue Residence Penthouse TH-4,Eagle Beach Eagle Beach Aruba,,"1,179,650",4,4,Pool,12.561412619756899,"-70.05383686400148
+CASA Blue Residence Penthouse TH-4,Eagle Beach Eagle Beach Aruba,,,"1,179,650",4,4,Pool,12.561412619756899,"-70.05383686400148
                 ",https://aruba-realty.com/property/details/casa-blue-tower-penthouse-3-2-2
-CASA Noble,Noord Seroe Janchi 31,,"1,150,000",9,4.5,Pool,12.551275615928267,"-70.0197778606659
+CASA Noble,Noord Seroe Janchi 31,,,"1,150,000",9,4.5,Pool,12.551275615928267,"-70.0197778606659
                 ",https://aruba-realty.com/property/details/casa-noble
-Casa Corazón de La Villa Sol,Esmeralda,New Listing,"1,100,000",4,3.5,Pool,12.596988976333375,"-70.04020020010529
+Casa Corazón de La Villa Sol,Esmeralda,New Listing,"
+                                    Houses for Sale
+                                ","1,100,000",4,3.5,Pool,12.596988976333375,"-70.04020020010529
                 ",https://aruba-realty.com/property/details/casa-corazon-de-la-villa-sol
-CASA Atlantis Model C,Eagle Beach,New Listing,"1,092,185",3,3.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Model C,Eagle Beach,New Listing,"
+                                    Houses for Sale
+                                ","1,092,185",3,3.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-3
-CASA Atlantis Model B,Eagle Beach,New Listing,"1,061,715",3,3.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Model B,Eagle Beach,New Listing,"
+                                    Houses for Sale
+                                ","1,061,715",3,3.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3
-CASA Oceania unit 124,Eagle Beach,New Listing,"1,058,400",,,,,,https://aruba-realty.com/property/details/casa-oceania-unit-124-2
-CASA Atlantis Model A,Eagle Beach,New Listing,"960,705",3,3.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Oceania unit 124,Eagle Beach,New Listing,"
+                                    Houses for Sale
+                                ","1,058,400",,,,,,https://aruba-realty.com/property/details/casa-oceania-unit-124-2
+CASA Atlantis Model A,Eagle Beach,New Listing,"
+                                    Houses for Sale
+                                ","960,705",3,3.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a
-Casa Coral Shell GF-B,Oranjestad,New Listing,"935,611",2,2.5,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell GF-B,Oranjestad,New Listing,"
+                                    Houses for Sale
+                                ","935,611",2,2.5,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-b-1-3
-CASA Fantastical,Noord Opal,New Listing,"875,000",4,3.5,Pool,12.58928775357532,"-70.04045232775269
+CASA Fantastical,Noord Opal,New Listing,"
+                                    Houses for Sale
+                                ","875,000",4,3.5,Pool,12.58928775357532,"-70.04045232775269
                 ",https://aruba-realty.com/property/details/casa-fantastical
-CASA Caribbean Deluxe,Oranjestad,New,"875,000",2,2,Pool,12.513839168286088,"-70.03231182339249
+CASA Caribbean Deluxe,Oranjestad,New,"
+                                    Houses for Sale
+                                ","875,000",2,2,Pool,12.513839168286088,"-70.03231182339249
                 ",https://aruba-realty.com/property/details/casa-caribbean-deluxe
-CASA To The Moon & Back,Tarabana,New Listing,"855,000",6,5,Pool,12.522296751286154,"-70.02123698237
+CASA To The Moon & Back,Tarabana,New Listing,"
+                                    Houses for Sale
+                                ","855,000",6,5,Pool,12.522296751286154,"-70.02123698237
                 ",https://aruba-realty.com/property/details/casa-to-the-moon-back
-CASA Royalty,Paradera Modanza 15-B,New Listing,"850,000",4,3,Pool,12.5347933,"-70.013834
+CASA Royalty,Paradera Modanza 15-B,New Listing,"
+                                    Houses for Sale
+                                ","850,000",4,3,Pool,12.5347933,"-70.013834
                 ",https://aruba-realty.com/property/details/casa-royalty-2
-CASA Harbor View,Oranjestad,New Listing,"850,000",2,2,Pool,12.519495043968215,"-70.04044159891663
+CASA Harbor View,Oranjestad,New Listing,"
+                                    Houses for Sale
+                                ","850,000",2,2,Pool,12.519495043968215,"-70.04044159891663
                 ",https://aruba-realty.com/property/details/casa-harbor-view-2
-CASA Tropical Escape,Bakval,New Listing,"849,000",4,2,Pool,12.583225037603416,"-70.04021629335938
+CASA Tropical Escape,Bakval,New Listing,"
+                                    Houses for Sale
+                                ","849,000",4,2,Pool,12.583225037603416,"-70.04021629335938
                 ",https://aruba-realty.com/property/details/casa-tropical-escape
-CASA Blue Residence unit 221,Eagle Beach Eagle Beach Aruba,New Listing,"826,500",3,3,Pool,12.561161291039042,"-70.05332187987062
+CASA Blue Residence unit 221,Eagle Beach Eagle Beach Aruba,New Listing,"
+                                    Houses for Sale
+                                ","826,500",3,3,Pool,12.561161291039042,"-70.05332187987062
                 ",https://aruba-realty.com/property/details/casa-blue-tower-%20221-2-2-2
-Casa Coral Shell 2-F,Oranjestad,New Listing,"816,333",2,2,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell 2-F,Oranjestad,New Listing,"
+                                    Houses for Sale
+                                ","816,333",2,2,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-c-1-1-3-2-2-2
-Casa Tera Grandi,St. Cruz Sabana Grandi 13-b,Sold,"797,753",,,,,,https://aruba-realty.com/property/details/casa-tera-grandi
-CASA Blue Residence unit 121,Eagle Beach Eagle Beach Aruba,New Listing,"795,300",3,3,Pool,12.561161291039042,"-70.05332187987062
+Casa Tera Grandi,St. Cruz Sabana Grandi 13-b,Sold,"
+                                    Houses for Sale
+                                ","797,753",,,,,,https://aruba-realty.com/property/details/casa-tera-grandi
+CASA Blue Residence unit 121,Eagle Beach Eagle Beach Aruba,New Listing,"
+                                    Houses for Sale
+                                ","795,300",3,3,Pool,12.561161291039042,"-70.05332187987062
                 ",https://aruba-realty.com/property/details/casa-blue-tower-%20115-2-2-3
-CASA Majestic,San Fuego San Fuego 28-S,,"775,000",4,2,Pool,12.504763323649456,"-69.95653137209473
+CASA Majestic,San Fuego San Fuego 28-S,,,"775,000",4,2,Pool,12.504763323649456,"-69.95653137209473
                 ",https://aruba-realty.com/property/details/casa-majestic
-CASA Just Right,Arikok area San Fuego,Sold,"775,000",4,2.5,Pool,12.504679529022132,"-69.95666011812745
+CASA Just Right,Arikok area San Fuego,Sold,"
+                                    Houses for Sale
+                                ","775,000",4,2.5,Pool,12.504679529022132,"-69.95666011812745
                 ",https://aruba-realty.com/property/details/casa-just-right
-CASA Aruban Sunset,San Fuego,New,"769,000",,,,,,https://aruba-realty.com/property/details/san-fuego-28-a
-CASA Tamarijn,Tamarijn,Sold,"650,000",4,2,Pool,12.538121898456021,"-69.99440416338501
+CASA Aruban Sunset,San Fuego,New,"
+                                    Houses for Sale
+                                ","769,000",,,,,,https://aruba-realty.com/property/details/san-fuego-28-a
+CASA Tamarijn,Tamarijn,Sold,"
+                                    Houses for Sale
+                                ","650,000",4,2,Pool,12.538121898456021,"-69.99440416338501
                 ",https://aruba-realty.com/property/details/casa-tamarijn
-Casa Palm,Palm Beach,Sold,"565,000",,,,,,https://aruba-realty.com/property/details/casa-palm
-CASA Seroe Blanco Apartment complex,Seroe Blanco,New Listing,"558,427",,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-apartment-complex
-CASA Sweelinck + 9 Apartments,Oranjestad Swee link straat 1,New Listing,"505,620",,,,,,https://aruba-realty.com/property/details/casa-sweelink
-CASA Top of the Hill Babijn,Paradera Babijn 65,Sold,"480,000",3,2,Pool,12.5413741,"-69.99642829999999
+Casa Palm,Palm Beach,Sold,"
+                                    Houses for Sale
+                                ","565,000",,,,,,https://aruba-realty.com/property/details/casa-palm
+CASA Seroe Blanco Apartment complex,Seroe Blanco,New Listing,"
+                                    Houses for Sale
+                                ","558,427",,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-apartment-complex
+CASA Sweelinck + 9 Apartments,Oranjestad Swee link straat 1,New Listing,"
+                                    Houses for Sale
+                                ","505,620",,,,,,https://aruba-realty.com/property/details/casa-sweelink
+CASA Top of the Hill Babijn,Paradera Babijn 65,Sold,"
+                                    Houses for Sale
+                                ","480,000",3,2,Pool,12.5413741,"-69.99642829999999
                 ",https://aruba-realty.com/property/details/casa-top-of-the-hill-babijn
-CASA PalmaAruba #308,Palm Beach Palm Beach,New Listing,"460,000",2,2,Pool,12.564419110368492,"-70.03833661796875
+CASA PalmaAruba #308,Palm Beach Palm Beach,New Listing,"
+                                    Houses for Sale
+                                ","460,000",2,2,Pool,12.564419110368492,"-70.03833661796875
                 ",https://aruba-realty.com/property/details/Casa-PalmAruba-308-2-2
-CASA Harbour House #320,Oranjestad,,"458,941",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-320
-CASA Blue Residence unit 633,Eagle Beach Eagle Beach Aruba,New Listing,"438,500",1,1,Pool,12.561161291039042,"-70.05332187987062
+CASA Harbour House #320,Oranjestad,,,"458,941",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-320
+CASA Blue Residence unit 633,Eagle Beach Eagle Beach Aruba,New Listing,"
+                                    Houses for Sale
+                                ","438,500",1,1,Pool,12.561161291039042,"-70.05332187987062
                 ",https://aruba-realty.com/property/details/casa-blue-tower-%20115-3-2-2
-CASA Moko Paradise,Moko,New Listing,"425,750",,,,,,https://aruba-realty.com/property/details/casa-moko-paradise
-CASA Brilliant,North Sabana Liber 93,,"421,500",,,,,,https://aruba-realty.com/property/details/casa-brilliant-2
-CASA Jardin del Mar (F),Eagle Beach Jardin del Mar Unit 9,New Listing,"420,000",,,,,,https://aruba-realty.com/property/details/casa-jardin-del-mar-f
-CASA Fair,Pos Chikito,,"410,000",,,,,,https://aruba-realty.com/property/details/casa-fair
-CASA Harbour House #321,Oranjestad,,"395,729",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-302-3
-CASA The Golden Pearl,Savaneta Beach Savaneta 178-B,Sold,"370,000",2,2.5,Airconditioned,12.4498415,"-69.9521116
+CASA Moko Paradise,Moko,New Listing,"
+                                    Houses for Sale
+                                ","425,750",,,,,,https://aruba-realty.com/property/details/casa-moko-paradise
+CASA Brilliant,North Sabana Liber 93,,,"421,500",,,,,,https://aruba-realty.com/property/details/casa-brilliant-2
+CASA Jardin del Mar (F),Eagle Beach Jardin del Mar Unit 9,New Listing,"
+                                    Houses for Sale
+                                ","420,000",,,,,,https://aruba-realty.com/property/details/casa-jardin-del-mar-f
+CASA Fair,Pos Chikito,,,"410,000",,,,,,https://aruba-realty.com/property/details/casa-fair
+CASA Harbour House #321,Oranjestad,,,"395,729",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-302-3
+CASA The Golden Pearl,Savaneta Beach Savaneta 178-B,Sold,"
+                                    Houses for Sale
+                                ","370,000",2,2.5,Airconditioned,12.4498415,"-69.9521116
                 ",https://aruba-realty.com/property/details/casa-the-golden-pearl-3-2
-CASA Harbour House #302,Oranjestad,,"365,578",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-302
-CASA Azure Tower 2 - Studio Ground Floor -#122,Eagle Beach,,"359,550",1,Pool,Pool,12.559692088327527,"-70.0542974345093
+CASA Harbour House #302,Oranjestad,,,"365,578",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-302
+CASA Azure Tower 2 - Studio Ground Floor -#122,Eagle Beach,,,"359,550",1,Pool,Pool,12.559692088327527,"-70.0542974345093
                 ",https://aruba-realty.com/property/details/casa-azure-model-ph-b-2-2-3
-CASA Tumba Diamand,Eagle Beach Tumba 49 Aruba,Sale in Progress,"350,000",,,,,,https://aruba-realty.com/property/details/casa-tumba-diamand-2-2
-CASA la Mirage,Ponton Cuquisastraat,New Listing,"349,000",,,,,,https://aruba-realty.com/property/details/casa-la-mirage
-CASA New Beginnings,Paradera,Sold,"295,000",,,,,,https://aruba-realty.com/property/details/casa-spacious-2
-CASA Marines,Sabana Liber,Sold,"293,000",,,,,,https://aruba-realty.com/property/details/casa-marines-2
-CASA Day Dream,Rooi Kochi Rooi Kochi 21,Reduced,"289,000",,,,,,https://aruba-realty.com/property/details/casa-day-dream
-CASA Villa Daniella,North Montana 79,Sold,"285,000",3,2,Pool,12.558436616193571,"-70.0299076899658
+CASA Tumba Diamand,Eagle Beach Tumba 49 Aruba,Sale in Progress,"
+                                    Houses for Sale
+                                ","350,000",,,,,,https://aruba-realty.com/property/details/casa-tumba-diamand-2-2
+CASA la Mirage,Ponton Cuquisastraat,New Listing,"
+                                    Houses for Sale
+                                ","349,000",,,,,,https://aruba-realty.com/property/details/casa-la-mirage
+CASA New Beginnings,Paradera,Sold,"
+                                    Houses for Sale
+                                ","295,000",,,,,,https://aruba-realty.com/property/details/casa-spacious-2
+CASA Marines,Sabana Liber,Sold,"
+                                    Houses for Sale
+                                ","293,000",,,,,,https://aruba-realty.com/property/details/casa-marines-2
+CASA Day Dream,Rooi Kochi Rooi Kochi 21,Reduced,"
+                                    Houses for Sale
+                                ","289,000",,,,,,https://aruba-realty.com/property/details/casa-day-dream
+CASA Villa Daniella,North Montana 79,Sold,"
+                                    Houses for Sale
+                                ","285,000",3,2,Pool,12.558436616193571,"-70.0299076899658
                 ",https://aruba-realty.com/property/details/casa-montana-perfecto-2-2
-CASA Bloemond,Paradera Bloemond 28A,Sold,"266,000",4,3,Pool,12.538320884855382,"-69.99742969515381
+CASA Bloemond,Paradera Bloemond 28A,Sold,"
+                                    Houses for Sale
+                                ","266,000",4,3,Pool,12.538320884855382,"-69.99742969515381
                 ",https://aruba-realty.com/property/details/casa-bloemond
-CASA Wacamaya 7B,North,Sold,"255,000",,,,,,https://aruba-realty.com/property/details/casa-wacamaya-7B-2
-Casa Luna,Tarabana,Sold,"240,000",,,,,,https://aruba-realty.com/property/details/casa-luna
-CASA Twin 1,Ponton Ponton 70B,,"235,955",,,,,,https://aruba-realty.com/property/details/casa-twin-1
-CASA Twin 2,Ponton Ponton 70M,,"235,955",,,,,,https://aruba-realty.com/property/details/casa-twin-1-2
-CASA Seroe Blanco Executive,Oranjestad Seroe Blanco,New Listing,"224,158",,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-executive-2
-CASA Casibari,Casibari,Sold,"210,674",,,,,,https://aruba-realty.com/property/details/casa-casibari-2
-CASA Caya Solo Lovely,Oranjestad Caya Solo 11-2,Sold,"195,000",,,,,,https://aruba-realty.com/property/details/casa-caya-solo-lovely
-Casa Cuquisa,Ponton Cuquisastraat 28 B,Sold,"193,821",3,3.5,Airconditioned,12.537611340543393,"-70.03241575899182
+CASA Wacamaya 7B,North,Sold,"
+                                    Houses for Sale
+                                ","255,000",,,,,,https://aruba-realty.com/property/details/casa-wacamaya-7B-2
+Casa Luna,Tarabana,Sold,"
+                                    Houses for Sale
+                                ","240,000",,,,,,https://aruba-realty.com/property/details/casa-luna
+CASA Twin 1,Ponton Ponton 70B,,,"235,955",,,,,,https://aruba-realty.com/property/details/casa-twin-1
+CASA Twin 2,Ponton Ponton 70M,,,"235,955",,,,,,https://aruba-realty.com/property/details/casa-twin-1-2
+CASA Seroe Blanco Executive,Oranjestad Seroe Blanco,New Listing,"
+                                    Houses for Sale
+                                ","224,158",,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-executive-2
+CASA Casibari,Casibari,Sold,"
+                                    Houses for Sale
+                                ","210,674",,,,,,https://aruba-realty.com/property/details/casa-casibari-2
+CASA Caya Solo Lovely,Oranjestad Caya Solo 11-2,Sold,"
+                                    Houses for Sale
+                                ","195,000",,,,,,https://aruba-realty.com/property/details/casa-caya-solo-lovely
+Casa Cuquisa,Ponton Cuquisastraat 28 B,Sold,"
+                                    Houses for Sale
+                                ","193,821",3,3.5,Airconditioned,12.537611340543393,"-70.03241575899182
                 ",https://aruba-realty.com/property/details/casa-cuquisa
-CASA Camacuri Moon (C),Camacuri,New,"139,000",1,1,Pool,12.510964050637757,"-70.02328619005738
+CASA Camacuri Moon (C),Camacuri,New,"
+                                    Houses for Sale
+                                ","139,000",1,1,Pool,12.510964050637757,"-70.02328619005738
                 ",https://aruba-realty.com/property/details/casa-camacuri-moon-c
-Casa Sunrise City,San Nicolaas,Sale in Progress,"117,978",,,,,,https://aruba-realty.com/property/details/casa-sunrise-city-2
-CASA Camacuri Sun (A),Camacuri,New,"84,000",1,Pool,Pool,12.511122470977433,"-70.02327747287808
+Casa Sunrise City,San Nicolaas,Sale in Progress,"
+                                    Houses for Sale
+                                ","117,978",,,,,,https://aruba-realty.com/property/details/casa-sunrise-city-2
+CASA Camacuri Sun (A),Camacuri,New,"
+                                    Houses for Sale
+                                ","84,000",1,Pool,Pool,12.511122470977433,"-70.02327747287808
                 ",https://aruba-realty.com/property/details/casa-camacuri-sun-a
-CASA Aloe,Ponton,New Listing,0,,,,,,https://aruba-realty.com/property/details/casa-aloe
-CASA Distinct,Malmok Catalina 14,New Listing,"12,500",5,3.5,Pool,12.607879575927376,"-70.04399573409921
+CASA Aloe,Ponton,New Listing,"
+                                    Houses for Sale
+                                ",0,,,,,,https://aruba-realty.com/property/details/casa-aloe
+CASA Distinct,Malmok Catalina 14,New Listing,"
+                                    Longterm Rentals
+                                ","12,500",5,3.5,Pool,12.607879575927376,"-70.04399573409921
                 ",https://aruba-realty.com/property/details/casa-distinct-2
-CASA Fantastical,Noord Opal,New Listing,"3,900",4,3.5,Pool,12.58928775357532,"-70.04045232775269
+CASA Fantastical,Noord Opal,New Listing,"
+                                    Longterm Rentals
+                                ","3,900",4,3.5,Pool,12.58928775357532,"-70.04045232775269
                 ",https://aruba-realty.com/property/details/casa-fantastical-2
-CASA Unique,Paradera,Rented,"3,315",5,3,Pool,12.540562089478499,"-70.00322326662598
+CASA Unique,Paradera,Rented,"
+                                    Longterm Rentals
+                                ","3,315",5,3,Pool,12.540562089478499,"-70.00322326662598
                 ",https://aruba-realty.com/property/details/paradera-225
-CASA The Rainbow Villa,Noord Sabana Liber 221,Rented,"2,995",4,2,Pool,12.56337061462853,"-70.0191735835449
+CASA The Rainbow Villa,Noord Sabana Liber 221,Rented,"
+                                    Longterm Rentals
+                                ","2,995",4,2,Pool,12.56337061462853,"-70.0191735835449
                 ",https://aruba-realty.com/property/details/casa-the-rainbow-villa-3
-CASA Polack Residence Pro,Palma Real,New Listing,"2,600",,,,,,https://aruba-realty.com/property/details/casa-polack-residence-pro
-Casa Siribana,St Cruz,Rented,"2,600",5,3,Pool,12.518798540683358,"-69.97816070559082
+CASA Polack Residence Pro,Palma Real,New Listing,"
+                                    Longterm Rentals
+                                ","2,600",,,,,,https://aruba-realty.com/property/details/casa-polack-residence-pro
+Casa Siribana,St Cruz,Rented,"
+                                    Longterm Rentals
+                                ","2,600",5,3,Pool,12.518798540683358,"-69.97816070559082
                 ",https://aruba-realty.com/property/details/casa-siribana-2
-CASA Landslake # F4,North Rooi Santo 12,Rented,"2,250",2,1,Pool,12.586450127142866,"-70.03607496264038
+CASA Landslake # F4,North Rooi Santo 12,Rented,"
+                                    Longterm Rentals
+                                ","2,250",2,1,Pool,12.586450127142866,"-70.03607496264038
                 ",https://aruba-realty.com/property/details/casa-landslake-superior
-CASA Sero Preto,Oranjestad Sero Preto,Rented,"1,950",4,3.5,Pool,12.525961094488444,"-70.00411519018115
+CASA Sero Preto,Oranjestad Sero Preto,Rented,"
+                                    Longterm Rentals
+                                ","1,950",4,3.5,Pool,12.525961094488444,"-70.00411519018115
                 ",https://aruba-realty.com/property/details/casa-sero-preto
-CASA Landslake Condo's F1,North Rooi Santo 12 aruba,New Listing,"1,800",2,1,Pool,12.585751,"-70.03786699999999
+CASA Landslake Condo's F1,North Rooi Santo 12 aruba,New Listing,"
+                                    Longterm Rentals
+                                ","1,800",2,1,Pool,12.585751,"-70.03786699999999
                 ",https://aruba-realty.com/property/details/casa-landslake-condos-f1-2-3
-CASA Salina Cerca Grandi,North Bakval,Rented,"1,750",4,3,Airconditioned,12.580033477803862,"-70.03923385078735
+CASA Salina Cerca Grandi,North Bakval,Rented,"
+                                    Longterm Rentals
+                                ","1,750",4,3,Airconditioned,12.580033477803862,"-70.03923385078735
                 ",https://aruba-realty.com/property/details/casa-salina-cerca-grandi-2
-CASA Crystal Garden,Sero Crystal,Rented,"1,680",3,2,Airconditioned,12.542845165724888,"-69.99592765810547
+CASA Crystal Garden,Sero Crystal,Rented,"
+                                    Longterm Rentals
+                                ","1,680",3,2,Airconditioned,12.542845165724888,"-69.99592765810547
                 ",https://aruba-realty.com/property/details/crystalgarden
-CASA Sunshine Malmok,Noord Malmokweg 23,Rented,"1,680",3,2,Airconditioned,12.600868294621806,"-70.04619225504456
+CASA Sunshine Malmok,Noord Malmokweg 23,Rented,"
+                                    Longterm Rentals
+                                ","1,680",3,2,Airconditioned,12.600868294621806,"-70.04619225504456
                 ",https://aruba-realty.com/property/details/casa-sunshine
-CASA Landslake Condo's F3,North Roois Santo,Rented,"1,650",2,1,Pool,12.586156938859485,"-70.0360964203125
+CASA Landslake Condo's F3,North Roois Santo,Rented,"
+                                    Longterm Rentals
+                                ","1,650",2,1,Pool,12.586156938859485,"-70.0360964203125
                 ",https://aruba-realty.com/property/details/casa-landslake-condos-f-2
-CasaTera Grandi (Main House),St. Cruz Sabana Grandi 13B,New Listing,"1,602",,,,,,https://aruba-realty.com/property/details/casatera-grandi-main-house
-CASA Sheer,Seroe Blanco,New Listing,"1,600",,,,,,https://aruba-realty.com/property/details/casa-sheer
-CASA Sunny Side,Rooi Afo,Rented,"1,573",,,,,,https://aruba-realty.com/property/details/casa-sunny-side
-Casa Del Rey,Paradera Paradera 46M,New Listing,"1,545",,,,,,https://aruba-realty.com/property/details/casa-del-rey
-CASA Orcuyo,Hooiberg,New Listing,"1,500",3,2,Pool,12.515279333577777,"-69.99142154696045
+CASA Sheer,Seroe Blanco,New Listing,"
+                                    Longterm Rentals
+                                ","1,600",,,,,,https://aruba-realty.com/property/details/casa-sheer
+CASA Sunny Side,Rooi Afo,Rented,"
+                                    Longterm Rentals
+                                ","1,573",,,,,,https://aruba-realty.com/property/details/casa-sunny-side
+Casa Del Rey,Paradera Paradera 46M,New Listing,"
+                                    Longterm Rentals
+                                ","1,545",,,,,,https://aruba-realty.com/property/details/casa-del-rey
+CASA Orcuyo,Hooiberg,New Listing,"
+                                    Longterm Rentals
+                                ","1,500",3,2,Pool,12.515279333577777,"-69.99142154696045
                 ",https://aruba-realty.com/property/details/casa-orcuyo
-CASA Tradewinds Apartment #1,Rooi Santo,Rented,"1,405",2,1,Airconditioned,12.586177880891007,"-70.0348518753296
+CasaTera Grandi (Main House),St. Cruz Sabana Grandi 13B,New Listing,"
+                                    Longterm Rentals
+                                ","1,489",,,,,,https://aruba-realty.com/property/details/casatera-grandi-main-house
+CASA Tradewinds Apartment #1,Rooi Santo,Rented,"
+                                    Longterm Rentals
+                                ","1,405",2,1,Airconditioned,12.586177880891007,"-70.0348518753296
                 ",https://aruba-realty.com/property/details/casa-tradewinds-appartment-4
-CASA Tradewinds Apartment #2,Rooi Santo,Rented,"1,405",2,1,Airconditioned,12.586219764948583,"-70.0350879097229
+CASA Tradewinds Apartment #2,Rooi Santo,Rented,"
+                                    Longterm Rentals
+                                ","1,405",2,1,Airconditioned,12.586219764948583,"-70.0350879097229
                 ",https://aruba-realty.com/property/details/casa-tradewinds-appartment-2-2
-CASA Fuerte Yellow,Tanki Leendert fuerte 64,Rented,"1,400",2,2.5,Airconditioned,12.5516298,"-70.0101193
+CASA Fuerte Yellow,Tanki Leendert fuerte 64,Rented,"
+                                    Longterm Rentals
+                                ","1,400",2,2.5,Airconditioned,12.5516298,"-70.0101193
                 ",https://aruba-realty.com/property/details/casa-fuerte-yellow
-CASA Irene,Oranjestad Irenestraat 17,Rented,"1,350",3,2,Airconditioned,12.5154584,"-70.032676
+CASA Irene,Oranjestad Irenestraat 17,Rented,"
+                                    Longterm Rentals
+                                ","1,350",3,2,Airconditioned,12.5154584,"-70.032676
                 ",https://aruba-realty.com/property/details/casa-irene
-CASA Seroe Blanco Executive,Oranjestad Seroe Blanco,Rented,"1,300",,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-executive
-CASA Cosy,Paradera,Rented,"1,265",2,1,Airconditioned,12.529921430553953,"-70.0018767977005
+CASA Seroe Blanco Executive,Oranjestad Seroe Blanco,Rented,"
+                                    Longterm Rentals
+                                ","1,300",,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-executive
+CASA Cosy,Paradera,Rented,"
+                                    Longterm Rentals
+                                ","1,265",2,1,Airconditioned,12.529921430553953,"-70.0018767977005
                 ",https://aruba-realty.com/property/details/casa-cosy
-CASA Cumana Cunucu,Oranjestad Cumana,Rented,"1,200",,,,,,https://aruba-realty.com/property/details/casa-cumana-cunucu
-CASA Fair,Pos Chikito,Rented,"1,124",,,,,,https://aruba-realty.com/property/details/casa-fair-2
-CASA Catashi,St. Cruz,Rented,"1,123",3,2,Airconditioned,12.515522851642078,"-69.9582359159237
+CASA Cumana Cunucu,Oranjestad Cumana,Rented,"
+                                    Longterm Rentals
+                                ","1,200",,,,,,https://aruba-realty.com/property/details/casa-cumana-cunucu
+CASA Fair,Pos Chikito,Rented,"
+                                    Longterm Rentals
+                                ","1,124",,,,,,https://aruba-realty.com/property/details/casa-fair-2
+CASA Catashi,St. Cruz,Rented,"
+                                    Longterm Rentals
+                                ","1,123",3,2,Airconditioned,12.515522851642078,"-69.9582359159237
                 ",https://aruba-realty.com/property/details/casa-catashi
-CASA Rooi Santo DeLuxe 4,North Rooi Santo 12,Rented,"1,100",,,,,,https://aruba-realty.com/property/details/casa-rooi-santo-de-luxe
-CASA Keito,North Keito,Rented,"1,060",3,1,Airconditioned,12.5636965,"-70.039954
+CASA Rooi Santo DeLuxe 4,North Rooi Santo 12,Rented,"
+                                    Longterm Rentals
+                                ","1,100",,,,,,https://aruba-realty.com/property/details/casa-rooi-santo-de-luxe
+CASA Keito,North Keito,Rented,"
+                                    Longterm Rentals
+                                ","1,060",3,1,Airconditioned,12.5636965,"-70.039954
                 ",https://aruba-realty.com/property/details/casa-keito
-CASA Matadera Petit Three,Noord,Rented,"1,011",,,,,,https://aruba-realty.com/property/details/casa-matadera-petit
-CASA Trusty,Savaneta,Rented,927,,,,,,https://aruba-realty.com/property/details/casa-trusty
-CASA Matadera Petit Two,Noord Matadera 16 F,Rented,899,2,1,Airconditioned,12.55071795802955,"-70.02228840830385
+CASA Matadera Petit Three,Noord,Rented,"
+                                    Longterm Rentals
+                                ","1,011",,,,,,https://aruba-realty.com/property/details/casa-matadera-petit
+CASA Trusty,Savaneta,Rented,"
+                                    Longterm Rentals
+                                ",927,,,,,,https://aruba-realty.com/property/details/casa-trusty
+CASA Matadera Petit Two,Noord Matadera 16 F,Rented,"
+                                    Longterm Rentals
+                                ",899,2,1,Airconditioned,12.55071795802955,"-70.02228840830385
                 ",https://aruba-realty.com/property/details/casa-matadera-petit-2
-Casa Calabas Apartments # 3,Calbas,Rented,843,1,1,Airconditioned,12.555956752893216,"-70.00457509996949
+Casa Calabas Apartments # 3,Calbas,Rented,"
+                                    Longterm Rentals
+                                ",843,1,1,Airconditioned,12.555956752893216,"-70.00457509996949
                 ",https://aruba-realty.com/property/details/casa-calbas-apartments-2
-CASA Calabas Apartments,Calbas,New,843,1,1,Airconditioned,12.555956752893216,"-70.00457509996949
+CASA Calabas Apartments,Calbas,New,"
+                                    Longterm Rentals
+                                ",843,1,1,Airconditioned,12.555956752893216,"-70.00457509996949
                 ",https://aruba-realty.com/property/details/casa-calbas-apartments-2-3
-CASA Matadera Petit One,Noord,Rented,814,1,1,Airconditioned,12.552705099671106,"-70.02356513979493
+CASA Matadera Petit One,Noord,Rented,"
+                                    Longterm Rentals
+                                ",814,1,1,Airconditioned,12.552705099671106,"-70.02356513979493
                 ",https://aruba-realty.com/property/details/casa-matadera-petit-one
-CASA Salina's apartment,North Salina Cerca 27A,New Listing,758,1,1,Airconditioned,12.579787673274335,"-70.03555854541014
+CASA Shanti,Oranjestad,New,"
+                                    Longterm Rentals
+                                ",758,,,,,,https://aruba-realty.com/property/details/casa-shanti
+CASA Salina's apartment,North Salina Cerca 27A,New Listing,"
+                                    Longterm Rentals
+                                ",758,1,1,Airconditioned,12.579787673274335,"-70.03555854541014
                 ",https://aruba-realty.com/property/details/casa-salinas-apartment
-CASA Comfy,Seroe Blanco,Rented,731,,,,,,https://aruba-realty.com/property/details/casa-comfy
-CASA Monty,North,Rented,702,1,1,Airconditioned,12.55708775307552,"-70.02828582766114
+CASA Comfy,Seroe Blanco,Rented,"
+                                    Longterm Rentals
+                                ",731,,,,,,https://aruba-realty.com/property/details/casa-comfy
+CASA Monty,North,Rented,"
+                                    Longterm Rentals
+                                ",702,1,1,Airconditioned,12.55708775307552,"-70.02828582766114
                 ",https://aruba-realty.com/property/details/casa-monty
-Casa Tera Grandi Apt.#3,St. Cruz Sabana Grandi 13B,New Listing,700,,,,,,https://aruba-realty.com/property/details/casa-tera-grandi-apt3
-CASA The Baron,Eagle Beach,New Listing,674,1,1,Pool,12.545177,"-70.048912
+Casa Tera Grandi Apt.#3,St. Cruz Sabana Grandi 13B,New Listing,"
+                                    Longterm Rentals
+                                ",700,,,,,,https://aruba-realty.com/property/details/casa-tera-grandi-apt3
+CASA The Baron,Eagle Beach,New Listing,"
+                                    Longterm Rentals
+                                ",674,1,1,Pool,12.545177,"-70.048912
                 ",https://aruba-realty.com/property/details/casa-the-baron-4-2
-CASA Bonaire,Pos Chiquito,Rented,674,,,,,,https://aruba-realty.com/property/details/casa-bonaire
-CASA Shanti,Oranjestad,Rented,618,,,,,,https://aruba-realty.com/property/details/casa-shanti
-CASA C'est la Vie Apartments,Tanki Leendert,New Listing,500,Dishwasher,Microwave,TV,12.54192099476498,"-70.02418449517664
+CASA Bonaire,Pos Chiquito,Rented,"
+                                    Longterm Rentals
+                                ",674,,,,,,https://aruba-realty.com/property/details/casa-bonaire
+CASA C'est la Vie Apartments,Tanki Leendert,New Listing,"
+                                    Longterm Rentals
+                                ",500,Dishwasher,Microwave,TV,12.54192099476498,"-70.02418449517664
                 ",https://aruba-realty.com/property/details/casa-cest-la-vie-apartments
-CASA Petite Cosy,Paradera,Rented,492,1,1,Airconditioned,12.529816697475686,"-70.00184997561036
+CASA Petite Cosy,Paradera,Rented,"
+                                    Longterm Rentals
+                                ",492,1,1,Airconditioned,12.529816697475686,"-70.00184997561036
                 ",https://aruba-realty.com/property/details/casa-petitecosy
-CASA Seroe Blanco Apart. nr 1,Oranjestad Seroe Blanco apt 3,New Listing,421,1,1,Airconditioned,12.5266075,"-70.0231967
+CASA Seroe Blanco Apart. nr 1,Oranjestad Seroe Blanco apt 3,New Listing,"
+                                    Longterm Rentals
+                                ",421,1,1,Airconditioned,12.5266075,"-70.0231967
                 ",https://aruba-realty.com/property/details/casa-seroe-blanco-apartment-nr-2
-CASA Seroe Blanco Apt. nr 2,Sero Blanco Sero Blanco 313A,New Listing,421,1,1,Airconditioned,12.528088595543604,"-70.02323791029511
+CASA Seroe Blanco Apt. nr 2,Sero Blanco Sero Blanco 313A,New Listing,"
+                                    Longterm Rentals
+                                ",421,1,1,Airconditioned,12.528088595543604,"-70.02323791029511
                 ",https://aruba-realty.com/property/details/casa-seroe-blanco-apt-nr-2
-CASA Seroe Blanco Apart. nr 5,Oranjestad Seroe Blanco apt 3,New Listing,421,1,1,Airconditioned,12.5266075,"-70.0231967
+CASA Seroe Blanco Apart. nr 5,Oranjestad Seroe Blanco apt 3,New Listing,"
+                                    Longterm Rentals
+                                ",421,1,1,Airconditioned,12.5266075,"-70.0231967
                 ",https://aruba-realty.com/property/details/casa-seroe-blanco-apartment-nr-3
-CASA Seroe Blanco Studio nr 10,Oranjestad Seroe Blanco,New Listing,337,,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-studio-nr
-CASA Seroe Blanco Studio nr 7,Oranjestad Seroe Blanco,New Listing,337,,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-studio-nr-7-2
-CASA Palma Royale,Palm Beach,,from,4,4,Pool,12.573968386756858,"-70.04122480394898
+CASA Seroe Blanco Studio nr 10,Oranjestad Seroe Blanco,New Listing,"
+                                    Longterm Rentals
+                                ",337,,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-studio-nr
+CASA Seroe Blanco Studio nr 7,Oranjestad Seroe Blanco,New Listing,"
+                                    Longterm Rentals
+                                ",337,,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-studio-nr-7-2
+CASA Palma Royale,Palm Beach,,,from,4,4,Pool,12.573968386756858,"-70.04122480394898
                 ",https://aruba-realty.com/property/details/casa-palma-royale
-CASA Paradise,Sabana Liber North,New Listing,from,4,3.5,Pool,12.563598818352837,"-70.01908346493707
+CASA Paradise,Sabana Liber North,New Listing,"
+                                    Vacation Rentals
+                                ",from,4,3.5,Pool,12.563598818352837,"-70.01908346493707
                 ",https://aruba-realty.com/property/details/casa-paradise
-CASA Corazón de La Villa Sol,Esmeralda,New Listing,from,4,3,Pool,12.596988976333375,"-70.04020020010529
+CASA Corazón de La Villa Sol,Esmeralda,New Listing,"
+                                    Vacation Rentals
+                                ",from,4,3,Pool,12.596988976333375,"-70.04020020010529
                 ",https://aruba-realty.com/property/details/casa-corazon-de-la-villa-sol-2
-Casa O 'Condominium 21,,New,from,,,,,,https://aruba-realty.com/property/details/casa-o-condominium-21
-CASA Tumba Pearl,Eagle Beach Tumba,,from,4,2,Pool,12.546531558039787,"-70.04884227755127
+Casa O 'Condominium 21,,New,"
+                                    Vacation Rentals
+                                ",from,,,,,,https://aruba-realty.com/property/details/casa-o-condominium-21
+CASA Tumba Pearl,Eagle Beach Tumba,,,from,4,2,Pool,12.546531558039787,"-70.04884227755127
                 ",https://aruba-realty.com/property/details/casa-tumba-pearl
-CASA Aruba Beach Chalet # 3 The White Pearl Deluxe,Savaneta Beach,,from,2,2.5,Safe,12.4498415,"-69.9521116
+CASA Aruba Beach Chalet # 3 The White Pearl Deluxe,Savaneta Beach,,,from,2,2.5,Safe,12.4498415,"-69.9521116
                 ",https://aruba-realty.com/property/details/casa-the-white-pearl-3
-CASA Salina Cerca Grandi,North Bakval,New Listing,from,4,3,Airconditioned,12.580033477803862,"-70.03923385078735
+CASA Salina Cerca Grandi,North Bakval,New Listing,"
+                                    Vacation Rentals
+                                ",from,4,3,Airconditioned,12.580033477803862,"-70.03923385078735
                 ",https://aruba-realty.com/property/details/casa-salina-cerca-grandi
-Palm Beach De Luxe,Palm Beach Palm beach 418,New Listing,from,,,,,,https://aruba-realty.com/property/details/palm-beach-de-luxe
-CASA Noord,North,New Listing,from,3,2,Airconditioned,12.565449669544419,"-70.03083392622534
+Palm Beach De Luxe,Palm Beach Palm beach 418,New Listing,"
+                                    Vacation Rentals
+                                ",from,,,,,,https://aruba-realty.com/property/details/palm-beach-de-luxe
+CASA Noord,North,New Listing,"
+                                    Vacation Rentals
+                                ",from,3,2,Airconditioned,12.565449669544419,"-70.03083392622534
                 ",https://aruba-realty.com/property/details/casa-noord-3
-CASA Tumba Diamand,Eagle Beach Tumba 49 Aruba,New Listing,from,3,2,Airconditioned,12.5462741,"-70.0498559
+CASA Tumba Diamand,Eagle Beach Tumba 49 Aruba,New Listing,"
+                                    Vacation Rentals
+                                ",from,3,2,Airconditioned,12.5462741,"-70.0498559
                 ",https://aruba-realty.com/property/details/casa-tumba-diamand
-CASA Aruba Beach Chalet  # 5,Savaneta Beach,,from,2,2.5,Airconditioned,12.449857,"-69.951985
+CASA Aruba Beach Chalet  # 5,Savaneta Beach,,,from,2,2.5,Airconditioned,12.449857,"-69.951985
                 ",https://aruba-realty.com/property/details/casa-chalet
-Casa Relax,Orcuyo Hooiberg,Rented,from,2,1,Airconditioned,12.515886819073122,"-69.99190434458313
+Casa Relax,Orcuyo Hooiberg,Rented,"
+                                    Vacation Rentals
+                                ",from,2,1,Airconditioned,12.515886819073122,"-69.99190434458313
                 ",https://aruba-realty.com/property/details/casa-relax
-Casa Chill,Orcuyo Hooiberg,Rented,from,2,1,Airconditioned,12.515886819073122,"-69.99190434458313
+Casa Chill,Orcuyo Hooiberg,Rented,"
+                                    Vacation Rentals
+                                ",from,2,1,Airconditioned,12.515886819073122,"-69.99190434458313
                 ",https://aruba-realty.com/property/details/casa-relax-2
-CASA Tradewinds Apartment #2,Rooi Santo,New Listing,from,2,1,Airconditioned,12.586219764948583,"-70.0350879097229
+CASA Tradewinds Apartment #2,Rooi Santo,New Listing,"
+                                    Vacation Rentals
+                                ",from,2,1,Airconditioned,12.586219764948583,"-70.0350879097229
                 ",https://aruba-realty.com/property/details/casa-tradewinds-appartment-2
-CASA Jewel,Gold Coast,New Listing,from,2,2,Pool,12.599266316047855,"-70.04157885553894
+CASA Jewel,Gold Coast,New Listing,"
+                                    Vacation Rentals
+                                ",from,2,2,Pool,12.599266316047855,"-70.04157885553894
                 ",https://aruba-realty.com/property/details/casa-jewel
-CASA Landslake Condo's F1,North Rooi Santo 12 aruba,Rented,from,2,1,Pool,12.585751,"-70.03786699999999
+CASA Landslake Condo's F1,North Rooi Santo 12 aruba,Rented,"
+                                    Vacation Rentals
+                                ",from,2,1,Pool,12.585751,"-70.03786699999999
                 ",https://aruba-realty.com/property/details/casa-landslake-condos-f1-2
-CASA Landslake Condo's F3,North Roois Santo,Rented,from,2,1,Pool,12.586156938859485,"-70.0360964203125
+CASA Landslake Condo's F3,North Roois Santo,Rented,"
+                                    Vacation Rentals
+                                ",from,2,1,Pool,12.586156938859485,"-70.0360964203125
                 ",https://aruba-realty.com/property/details/casa-landslake-condos-f
-CASA The Baron,Eagle Beach,Rented,from,1,1,Pool,12.545177,"-70.048912
+CASA The Baron,Eagle Beach,Rented,"
+                                    Vacation Rentals
+                                ",from,1,1,Pool,12.545177,"-70.048912
                 ",https://aruba-realty.com/property/details/casa-the-baron-4
-CASA Wacamaya,North,New Listing,from,1,1,Pool,12.585492377425666,"-70.03683063050147
+CASA Wacamaya,North,New Listing,"
+                                    Vacation Rentals
+                                ",from,1,1,Pool,12.585492377425666,"-70.03683063050147
                 ",https://aruba-realty.com/property/details/casa-wacamaya-7B
-Casa Luna de Frances,"Tarabana, Oranjestad Caya Luna 6",New Listing,from,,,,,,https://aruba-realty.com/property/details/casa-luna-de-frances
-CASA Paraguana,Paraguana,New Listing,from,2,1,Airconditioned,12.54919159243659,"-70.01923605444489
+Casa Luna de Frances,"Tarabana, Oranjestad Caya Luna 6",New Listing,"
+                                    Vacation Rentals
+                                ",from,,,,,,https://aruba-realty.com/property/details/casa-luna-de-frances
+CASA Paraguana,Paraguana,New Listing,"
+                                    Vacation Rentals
+                                ",from,2,1,Airconditioned,12.54919159243659,"-70.01923605444489
                 ",https://aruba-realty.com/property/details/casa-paraguana-2-2
-Casa Coral Pyramid Penthouse,Oranjestad,Sold,"2,500,000",4,5,Pool,12.514584127517502,"-70.033214386726
+Casa Coral Pyramid Penthouse,Oranjestad,Sold,"
+                                    Condominiums for Sale
+                                ","2,500,000",4,5,Pool,12.514584127517502,"-70.033214386726
                 ",https://aruba-realty.com/property/details/casa-coral-pyramid-2
-Casa Coral Shell 3-CD,Oranjestad,New Listing,"2,049,111",4,4,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell 3-CD,Oranjestad,New Listing,"
+                                    Condominiums for Sale
+                                ","2,049,111",4,4,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-c-1-1-4-2
-Casa Coral Shell GF-C,Oranjestad,New Listing,"1,973,111",3,3.5,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell GF-C,Oranjestad,New Listing,"
+                                    Condominiums for Sale
+                                ","1,973,111",3,3.5,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-b-1-2-2-2
-CASA Atlantis Model H-I,Eagle Beach,New Listing,"1,800,000",5,5.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Model H-I,Eagle Beach,New Listing,"
+                                    Condominiums for Sale
+                                ","1,800,000",5,5.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-3-3-3-2
-CASA Atlantis Penthouses,Eagle Beach,New Listing,"1,800,000",5,5.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Penthouses,Eagle Beach,New Listing,"
+                                    Condominiums for Sale
+                                ","1,800,000",5,5.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-3-3-3-3-2
-CASA Blue Residence Penthouse PH 3-6,Eagle Beach Eagle Beach Aruba,,"1,585,750",5,6,Pool,12.561412619756899,"-70.05383686400148
+CASA Blue Residence Penthouse PH 3-6,Eagle Beach Eagle Beach Aruba,,,"1,585,750",5,6,Pool,12.561412619756899,"-70.05383686400148
                 ",https://aruba-realty.com/property/details/casa-blue-tower-penthouse-3-2-3-2-4
-Casa Coral Shell 1-E/2-E LOFT,Oranjestad,New Listing,"1,398,400",2,4,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell 1-E/2-E LOFT,Oranjestad,New Listing,"
+                                    Condominiums for Sale
+                                ","1,398,400",2,4,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-c-1-1-2
-CASA Atlantis Model D,Eagle Beach,New Listing,"1,329,780",3,3.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Model D,Eagle Beach,New Listing,"
+                                    Condominiums for Sale
+                                ","1,329,780",3,3.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-3-3-2
-CASA Blue Residence Penthouse PH 1-2,Eagle Beach Eagle Beach Aruba,,"1,255,000",3,4,Pool,12.561412619756899,"-70.05383686400148
+CASA Blue Residence Penthouse PH 1-2,Eagle Beach Eagle Beach Aruba,,,"1,255,000",3,4,Pool,12.561412619756899,"-70.05383686400148
                 ",https://aruba-realty.com/property/details/casa-blue-tower-penthouse-3-2-3-2-3-2
-CASA Blue Residence Penthouse TH-4,Eagle Beach Eagle Beach Aruba,,"1,179,650",4,4,Pool,12.561412619756899,"-70.05383686400148
+CASA Blue Residence Penthouse TH-4,Eagle Beach Eagle Beach Aruba,,,"1,179,650",4,4,Pool,12.561412619756899,"-70.05383686400148
                 ",https://aruba-realty.com/property/details/casa-blue-tower-penthouse-3-2
-CASA Atlantis Model C,Eagle Beach,New Listing,"1,092,185",3,3.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Model C,Eagle Beach,New Listing,"
+                                    Condominiums for Sale
+                                ","1,092,185",3,3.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-3-2
-CASA Atlantis Model B,Eagle Beach,New Listing,"1,061,715",3,3.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Atlantis Model B,Eagle Beach,New Listing,"
+                                    Condominiums for Sale
+                                ","1,061,715",3,3.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-3-2
-CASA Oceania unit 124,Eagle Beach,New Listing,"1,058,400",,,,,,https://aruba-realty.com/property/details/casa-oceania-unit-124
-CASA Atlantis Model A,Eagle Beach,New Listing,"960,705",3,3.5,Pool,12.553199919116985,"-70.05413964035569
+CASA Oceania unit 124,Eagle Beach,New Listing,"
+                                    Condominiums for Sale
+                                ","1,058,400",,,,,,https://aruba-realty.com/property/details/casa-oceania-unit-124
+CASA Atlantis Model A,Eagle Beach,New Listing,"
+                                    Condominiums for Sale
+                                ","960,705",3,3.5,Pool,12.553199919116985,"-70.05413964035569
                 ",https://aruba-realty.com/property/details/casa-atlantic-360c-apartment-a-2
-Casa Coral Shell GF-B,Oranjestad,New Listing,"935,611",2,2.5,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell GF-B,Oranjestad,New Listing,"
+                                    Condominiums for Sale
+                                ","935,611",2,2.5,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-b-1-3-2
-CASA Caribbean Deluxe,Oranjestad,New,"875,000",2,2,Pool,12.513839168286088,"-70.03231182339249
+CASA Caribbean Deluxe,Oranjestad,New,"
+                                    Condominiums for Sale
+                                ","875,000",2,2,Pool,12.513839168286088,"-70.03231182339249
                 ",https://aruba-realty.com/property/details/casa-caribbean-deluxe-2
-CASA Harbor View,Oranjestad,New Listing,"850,000",2,2,Pool,12.519495043968215,"-70.04044159891663
+CASA Harbor View,Oranjestad,New Listing,"
+                                    Condominiums for Sale
+                                ","850,000",2,2,Pool,12.519495043968215,"-70.04044159891663
                 ",https://aruba-realty.com/property/details/casa-harbor-view-2-2
-CASA Blue Residence unit 221,Eagle Beach Eagle Beach Aruba,New Listing,"826,500",3,3,Pool,12.561161291039042,"-70.05332187987062
+CASA Blue Residence unit 221,Eagle Beach Eagle Beach Aruba,New Listing,"
+                                    Condominiums for Sale
+                                ","826,500",3,3,Pool,12.561161291039042,"-70.05332187987062
                 ",https://aruba-realty.com/property/details/casa-blue-tower-%20221-2-2-2-3
-Casa Coral Shell 2-F,Oranjestad,New Listing,"816,333",2,2,Pool,12.513998896105523,"-70.03220989944992
+Casa Coral Shell 2-F,Oranjestad,New Listing,"
+                                    Condominiums for Sale
+                                ","816,333",2,2,Pool,12.513998896105523,"-70.03220989944992
                 ",https://aruba-realty.com/property/details/casa-coral-shell-gf-c-1-1-3-2-2
-CASA Blue Residence unit 121,Eagle Beach Eagle Beach Aruba,New Listing,"795,300",3,3,Pool,12.561161291039042,"-70.05332187987062
+CASA Blue Residence unit 121,Eagle Beach Eagle Beach Aruba,New Listing,"
+                                    Condominiums for Sale
+                                ","795,300",3,3,Pool,12.561161291039042,"-70.05332187987062
                 ",https://aruba-realty.com/property/details/casa-blue-tower-%20115-2-2
-CASA PalmaAruba #308,Palm Beach Palm Beach,,"460,000",2,2,Pool,12.564419110368492,"-70.03833661796875
+CASA PalmaAruba #308,Palm Beach Palm Beach,,,"460,000",2,2,Pool,12.564419110368492,"-70.03833661796875
                 ",https://aruba-realty.com/property/details/Casa-PalmAruba-308-2
-CASA Harbour House #320,Oranjestad,,"458,941",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-320-2
-CASA Blue Residence unit 633,Eagle Beach Eagle Beach Aruba,New Listing,"438,500",1,1,Pool,12.561161291039042,"-70.05332187987062
+CASA Harbour House #320,Oranjestad,,,"458,941",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-320-2
+CASA Blue Residence unit 633,Eagle Beach Eagle Beach Aruba,New Listing,"
+                                    Condominiums for Sale
+                                ","438,500",1,1,Pool,12.561161291039042,"-70.05332187987062
                 ",https://aruba-realty.com/property/details/casa-blue-tower-%20115-3-2-2-3
-CASA Jardin del Mar (F),Eagle Beach Jardin del Mar Unit 9,New Listing,"420,000",,,,,,https://aruba-realty.com/property/details/casa-jardin-del-mar-f-2
-CASA Harbour House #321,Oranjestad,,"395,729",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-302-3-2
-Casa Gold,Malmok,New Listing,"390,000",2,2,Pool,12.597963120663215,"-70.03997600645988
+CASA Jardin del Mar (F),Eagle Beach Jardin del Mar Unit 9,New Listing,"
+                                    Condominiums for Sale
+                                ","420,000",,,,,,https://aruba-realty.com/property/details/casa-jardin-del-mar-f-2
+CASA Harbour House #321,Oranjestad,,,"395,729",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-302-3-2
+Casa Gold,Malmok,New Listing,"
+                                    Condominiums for Sale
+                                ","390,000",2,2,Pool,12.597963120663215,"-70.03997600645988
                 ",https://aruba-realty.com/property/details/casa-gold-2
-CASA Harbour House #302,Oranjestad,,"365,578",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-302-2
-CASA Azure Tower 2 - Studio Ground Floor -#122,Eagle Beach,,"359,550",1,Pool,Pool,12.559692088327527,"-70.0542974345093
+CASA Harbour House #302,Oranjestad,,,"365,578",,,,,,https://aruba-realty.com/property/details/casa-harbour-house-unit-302-2
+CASA Azure Tower 2 - Studio Ground Floor -#122,Eagle Beach,,,"359,550",1,Pool,Pool,12.559692088327527,"-70.0542974345093
                 ",https://aruba-realty.com/property/details/casa-azure-model-ph-b-2-2-3-2
-CASA Wacamaya 7B,North,Sold,"255,000",,,,,,https://aruba-realty.com/property/details/casa-wacamaya-7B-2-2
-CASA Camacuri Moon (C),Camacuri,New,"139,000",1,1,Pool,12.510964050637757,"-70.02328619005738
+CASA Wacamaya 7B,North,Sold,"
+                                    Condominiums for Sale
+                                ","255,000",,,,,,https://aruba-realty.com/property/details/casa-wacamaya-7B-2-2
+CASA Camacuri Moon (C),Camacuri,New,"
+                                    Condominiums for Sale
+                                ","139,000",1,1,Pool,12.510964050637757,"-70.02328619005738
                 ",https://aruba-realty.com/property/details/casa-camacuri-moon-c-2
-Cozy Condo At Villas Del Mar,,Sold,"92,500",,,,,,https://aruba-realty.com/property/details/cozy-condo-at-villas-del-mar
-CASA Camacuri Sun (A),Camacuri,New,"84,000",1,Pool,Pool,12.511122470977433,"-70.02327747287808
+Cozy Condo At Villas Del Mar,,Sold,"
+                                    Condominiums for Sale
+                                ","92,500",,,,,,https://aruba-realty.com/property/details/cozy-condo-at-villas-del-mar
+CASA Camacuri Sun (A),Camacuri,New,"
+                                    Condominiums for Sale
+                                ","84,000",1,Pool,Pool,12.511122470977433,"-70.02327747287808
                 ",https://aruba-realty.com/property/details/casa-camacuri-sun-a-2
-CASA Statuesque,Oranjestad,,"4,660,000",,,,,,https://aruba-realty.com/property/details/casa-statuesque
-CASA Main Street Yellow,Oranjestad,,"4,100,000",,,,,,https://aruba-realty.com/property/details/casa-main-street
-CASA Rio Grande,Noord,,"2,000,000",,,,,,https://aruba-realty.com/property/details/casa-rio-grande
-CASA To The Moon & Back,Tarabana,New Listing,"855,000",6,5,Pool,12.522296751286154,"-70.02123698237
+CASA Statuesque,Oranjestad,,,"4,660,000",,,,,,https://aruba-realty.com/property/details/casa-statuesque
+CASA Main Street Yellow,Oranjestad,,,"4,100,000",,,,,,https://aruba-realty.com/property/details/casa-main-street
+CASA Rio Grande,Noord,,,"2,000,000",,,,,,https://aruba-realty.com/property/details/casa-rio-grande
+CASA To The Moon & Back,Tarabana,New Listing,"
+                                    Commercial for Sale
+                                ","855,000",6,5,Pool,12.522296751286154,"-70.02123698237
                 ",https://aruba-realty.com/property/details/casa-to-the-moon-back-2
-Casa Tera Grandi,St. Cruz Sabana Grandi 13-b,Sale in Progress,"797,753",,,,,,https://aruba-realty.com/property/details/casa-tera-grandi-2
-CASA St Cruz Commercial,St Cruz,,"790,000",,,,,,https://aruba-realty.com/property/details/casa-st-cruz-commercial
-CASA Dakota,Dakota,,"562,000",,,,,,https://aruba-realty.com/property/details/casa-dakota
-CASA Seroe Blanco Apartment complex,Seroe Blanco,New Listing,"558,427",,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-apartment-complex-2
-CASA Sweelinck + 9 Apartments,Oranjestad Swee link straat 1,New Listing,"505,622",,,,,,https://aruba-realty.com/property/details/casa-sweelink-3
-CASA Tanki Leendert Property Land,,Sold,"360,000",,,,,,https://aruba-realty.com/property/details/casa-tanki-leendert-property-land-2
-Free Zone Barcadera,Oranjestad Barcadera,Sold,"325,000",,,,,,https://aruba-realty.com/property/details/free-zone-barcadera
-CASA Tanki Leendert Property Land,Tanki Leendert,Sold,"360,000",,,,,,https://aruba-realty.com/property/details/casa-tanki-leendert-property-land
-CASA Catalina Estates Plot 10,Catalina Estates  10,New Listing,"357,870",,,,,,https://aruba-realty.com/property/details/casa-catalina-estates-plot-10
-Casa Salina Serca Plot,Salina Serca,Sold,"175,000",,,,,,https://aruba-realty.com/property/details/casa-salina-serca-plot
-CASA San Fuego Parcel G-5,Arikok area San Fuego Aruba,Sale in Progress,"150,000",,,,,,https://aruba-realty.com/property/details/casa-san-fuego-parcel-g
-CASA San Fuego  K-8 and/or L-15,Arikok area San Fuego,New Listing,"150,000",,,,,,https://aruba-realty.com/property/details/casa-san-fuego-plot-k-8
-CASA San Fuego Parcel B-2,Arikok area San Fuego Aruba,Sold,"105,000",,,,,,https://aruba-realty.com/property/details/casa-san-fuego-parcel-b
-Casa Go West,Oranjestad,Rented,"9,714",,,,,,https://aruba-realty.com/property/details/casa-go-west
-CASA Mainstreet Retail Store unit #1,Oranjestad,New Listing,"5,340",,,,,,https://aruba-realty.com/property/details/casa-main-street-red-store
-CASA Red Gallery + Office,Oranjestad,New Listing,"5,050",,,,,,https://aruba-realty.com/property/details/casa-main-street-red-2
-CASA Mainstreet Retail Store unit #2,Oranjestad,New Listing,"4,495",,,,,,https://aruba-realty.com/property/details/casa-main-street-red-store-2
-CASA Mainstreet RETAIL unit #5,Oranjestad,New Listing,"3,750",,,,,,https://aruba-realty.com/property/details/casa-mainstreet-ii-2
-CASA Bistro,Oranjestad,New Listing,"3,430",,,,,,https://aruba-realty.com/property/details/casa-bistro
-CASA Red Gallery,Oranjestad,New Listing,"3,430",,,,,,https://aruba-realty.com/property/details/casa-main-street-red
-CASA Mainstreet RETAIL #6,Oranjestad,New Listing,"2,320",,,,,,https://aruba-realty.com/property/details/casa-mainstreet-i-2-2
-CASA Balashi,St. Cruz Balashi 76 aruba,Rented,"1,400",,,,,,https://aruba-realty.com/property/details/casa-balashi
-CASA Pos Chiquito Commercial Office,Pos Chiquito,New,14,,,,,,https://aruba-realty.com/property/details/casa-pos-chiquito-commercial
-CASA Pos Chiquito Commercial Wharehouse,Pos Chiquito,New,11,,,,,,https://aruba-realty.com/property/details/casa-pos-chiquito-commercial-wharehouse
-CASA San Fuego  K-8 and/or L-15,Arikok area San Fuego,New Listing,"150,000",,,,,,https://aruba-realty.com/property/details/casa-san-fuego-plot-k-8-2
+Casa Tera Grandi,St. Cruz Sabana Grandi 13-b,Sale in Progress,"
+                                    Commercial for Sale
+                                ","797,753",,,,,,https://aruba-realty.com/property/details/casa-tera-grandi-2
+CASA St Cruz Commercial,St Cruz,,,"790,000",,,,,,https://aruba-realty.com/property/details/casa-st-cruz-commercial
+CASA Dakota,Dakota,,,"562,000",,,,,,https://aruba-realty.com/property/details/casa-dakota
+CASA Seroe Blanco Apartment complex,Seroe Blanco,New Listing,"
+                                    Commercial for Sale
+                                ","558,427",,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-apartment-complex-2
+CASA Sweelinck + 9 Apartments,Oranjestad Swee link straat 1,New Listing,"
+                                    Commercial for Sale
+                                ","505,622",,,,,,https://aruba-realty.com/property/details/casa-sweelink-3
+CASA Tanki Leendert Property Land,,Sold,"
+                                    Commercial for Sale
+                                ","360,000",,,,,,https://aruba-realty.com/property/details/casa-tanki-leendert-property-land-2
+Free Zone Barcadera,Oranjestad Barcadera,Sold,"
+                                    Commercial for Sale
+                                ","325,000",,,,,,https://aruba-realty.com/property/details/free-zone-barcadera
+CASA Tanki Leendert Property Land,Tanki Leendert,Sold,"
+                                    Property Land for Sale
+                                ","360,000",,,,,,https://aruba-realty.com/property/details/casa-tanki-leendert-property-land
+CASA Catalina Estates Plot 10,Catalina Estates  10,New Listing,"
+                                    Property Land for Sale
+                                ","357,870",,,,,,https://aruba-realty.com/property/details/casa-catalina-estates-plot-10
+Casa Salina Serca Plot,Salina Serca,Sold,"
+                                    Property Land for Sale
+                                ","175,000",,,,,,https://aruba-realty.com/property/details/casa-salina-serca-plot
+CASA San Fuego Parcel G-5,Arikok area San Fuego Aruba,Sale in Progress,"
+                                    Property Land for Sale
+                                ","150,000",,,,,,https://aruba-realty.com/property/details/casa-san-fuego-parcel-g
+CASA San Fuego  K-8 and/or L-15,Arikok area San Fuego,New Listing,"
+                                    Property Land for Sale
+                                ","150,000",,,,,,https://aruba-realty.com/property/details/casa-san-fuego-plot-k-8
+CASA San Fuego Parcel B-2,Arikok area San Fuego Aruba,Sold,"
+                                    Property Land for Sale
+                                ","105,000",,,,,,https://aruba-realty.com/property/details/casa-san-fuego-parcel-b
+Casa Go West,Oranjestad,Rented,"
+                                    Commercial Rentals
+                                ","9,714",,,,,,https://aruba-realty.com/property/details/casa-go-west
+CASA Mainstreet Retail Store unit #1,Oranjestad,New Listing,"
+                                    Commercial Rentals
+                                ","5,340",,,,,,https://aruba-realty.com/property/details/casa-main-street-red-store
+CASA Red Gallery + Office,Oranjestad,New Listing,"
+                                    Commercial Rentals
+                                ","5,050",,,,,,https://aruba-realty.com/property/details/casa-main-street-red-2
+CASA Mainstreet Retail Store unit #2,Oranjestad,New Listing,"
+                                    Commercial Rentals
+                                ","4,495",,,,,,https://aruba-realty.com/property/details/casa-main-street-red-store-2
+CASA Mainstreet RETAIL unit #5,Oranjestad,New Listing,"
+                                    Commercial Rentals
+                                ","3,750",,,,,,https://aruba-realty.com/property/details/casa-mainstreet-ii-2
+CASA Bistro,Oranjestad,New Listing,"
+                                    Commercial Rentals
+                                ","3,430",,,,,,https://aruba-realty.com/property/details/casa-bistro
+CASA Red Gallery,Oranjestad,New Listing,"
+                                    Commercial Rentals
+                                ","3,430",,,,,,https://aruba-realty.com/property/details/casa-main-street-red
+CASA Mainstreet RETAIL #6,Oranjestad,New Listing,"
+                                    Commercial Rentals
+                                ","2,320",,,,,,https://aruba-realty.com/property/details/casa-mainstreet-i-2-2
+CASA Balashi,St. Cruz Balashi 76 aruba,Rented,"
+                                    Commercial Rentals
+                                ","1,400",,,,,,https://aruba-realty.com/property/details/casa-balashi
+CASA Pos Chiquito Commercial Office,Pos Chiquito,New,"
+                                    Commercial Rentals
+                                ",14,,,,,,https://aruba-realty.com/property/details/casa-pos-chiquito-commercial
+CASA Pos Chiquito Commercial Wharehouse,Pos Chiquito,New,"
+                                    Commercial Rentals
+                                ",11,,,,,,https://aruba-realty.com/property/details/casa-pos-chiquito-commercial-wharehouse
+CASA San Fuego  K-8 and/or L-15,Arikok area San Fuego,New Listing,"
+                                    Project Development
+                                ","150,000",,,,,,https://aruba-realty.com/property/details/casa-san-fuego-plot-k-8-2
