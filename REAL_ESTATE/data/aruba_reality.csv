@@ -265,9 +265,6 @@ CASA Sheer,Seroe Blanco,New Listing,"
 CASA Sunny Side,Rooi Afo,Rented,"
                                     Longterm Rentals
                                 ","1,573",,,,,,https://aruba-realty.com/property/details/casa-sunny-side
-Casa Del Rey,Paradera Paradera 46M,New Listing,"
-                                    Longterm Rentals
-                                ","1,545",,,,,,https://aruba-realty.com/property/details/casa-del-rey
 CASA Orcuyo,Hooiberg,New Listing,"
                                     Longterm Rentals
                                 ","1,500",3,2,Pool,12.515279333577777,"-69.99142154696045
@@ -275,6 +272,9 @@ CASA Orcuyo,Hooiberg,New Listing,"
 CasaTera Grandi (Main House),St. Cruz Sabana Grandi 13B,New Listing,"
                                     Longterm Rentals
                                 ","1,489",,,,,,https://aruba-realty.com/property/details/casatera-grandi-main-house
+Casa Del Rey,Paradera Paradera 46M,New Listing,"
+                                    Longterm Rentals
+                                ","1,461",,,,,,https://aruba-realty.com/property/details/casa-del-rey
 CASA Tradewinds Apartment #1,Rooi Santo,Rented,"
                                     Longterm Rentals
                                 ","1,405",2,1,Airconditioned,12.586177880891007,"-70.0348518753296
@@ -387,6 +387,10 @@ CASA Seroe Blanco Studio nr 10,Oranjestad Seroe Blanco,New Listing,"
 CASA Seroe Blanco Studio nr 7,Oranjestad Seroe Blanco,New Listing,"
                                     Longterm Rentals
                                 ",337,,,,,,https://aruba-realty.com/property/details/casa-seroe-blanco-studio-nr-7-2
+CASA Distinct,Malmok Catalina 14,New,"
+                                    Vacation Rentals
+                                ",from,5,4.5,Pool,12.607879575927376,"-70.04399573409921
+                ",https://aruba-realty.com/property/details/casa-distinct-3
 CASA Palma Royale,Palm Beach,,,from,4,4,Pool,12.573968386756858,"-70.04122480394898
                 ",https://aruba-realty.com/property/details/casa-palma-royale
 CASA Paradise,Sabana Liber North,New Listing,"
