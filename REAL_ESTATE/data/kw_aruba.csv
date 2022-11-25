@@ -33,7 +33,7 @@ Monaco Vacation House,Oranjestad,,,850.000,8,8,Yes,12.526811149395177,"-70.02170
                                         ",https://kw-aruba.com//listings/seroe-blanco-56-l
 Villa Westpunt,Malmok,New Listing, Residential,850.000,4,3,Yes,12.594965839250884,"-70.0380670425415
                                         ",https://kw-aruba.com//listings/villa-westpunt
-Paradera 104-C,Paradera,,,795.000,5,3,Yes,12.529934831576991,"-70.00340217323303
+Paradera 104-C,Paradera,Under contract, Residential,795.000,5,3,Yes,12.529934831576991,"-70.00340217323303
                                         ",https://kw-aruba.com//listings/paradera-104-c
 Caya Frere Johannes 4,Oranjestad,New Listing, Residential,795.000,12,12,No,12.534667232662475,"-70.03700196814144
                                         ",https://kw-aruba.com//listings/cfj4
@@ -44,6 +44,8 @@ Seroe Blanco 54-A,Oranjestad,Sold, Residential,735.000,8,5,Yes,12.52562503049024
                                         ",https://kw-aruba.com//listings/seroe-blanco-54-
 Palm Beach 33-A,Noord,,,695.000,3,2,No,12.56743700671298,"-70.04117840499877
                                         ",https://kw-aruba.com//listings/palm-beach-33-
+Pos Abao 32M,Eagle Beach,New Listing, Residential,675.000,3,2,Yes,12.543246058639003,"-70.05048030586242
+                                        ",https://kw-aruba.com//listings/pos-abao-32m-2
 Alto Vista Villa Park,Noord,New Listing, Residential,650.000,6,5,Yes,12.575070820494437,"-70.01491421432495
                                         ",https://kw-aruba.com//listings/alto-vista-villa-park
 Ponton 34G,Oranjestad,,,645.000,7,7,No,12.536721443967172,"-70.0287007686615
@@ -124,12 +126,14 @@ Paradera 1E,Paradera,Reduced in price, Residential,355.000,3,2,No,12.53725556791
                                         ",https://kw-aruba.com//listings/paradera-1e
 Savaneta 349-F,Savaneta,Reduced in price, Residential,344.000,5,4,No,12.447591060632318,"-69.93468397827148
                                         ",https://kw-aruba.com//listings/savaneta-349-f
-Koyari 33-F,Noord,Under contract, Residential,336.000,3,2,,12.560834465014661,"-70.04405373306274
+Koyari 33-F,Noord,Sold, Residential,336.000,3,2,,12.560834465014661,"-70.04405373306274
                                         ",https://kw-aruba.com//listings/koyari-33-f
 Coba Lodo 12-F,Santa Cruz,Sold, Residential,329.000,3,2,No,12.516934513907815,"-69.96343457670211
                                         ",https://kw-aruba.com//listings/coba-lodo
 Boton 9 - K,Santa Cruz,Under contract, Residential,325.500,4,2,No,12.49642855316839,"-69.96427410812377
                                         ",https://kw-aruba.com//listings/boton-9-k
+Jan Flemming 5-H,Santa Cruz,New Listing, Residential,320.225,3,2,No,12.494509063767111,"-69.97555011482238
+                                        ",https://kw-aruba.com//listings/jan-flemming-5-h
 Alto Vista Delight,Noord,Under contract, Residential,315.000,2,2,No,12.569405693698208,"-70.02190941543579
                                         ",https://kw-aruba.com//listings/alto-vista-20
 Montaña 44,Noord,New Listing, Residential,310.000,4,3,No,12.558096009794046,"-70.0263296958923
@@ -157,12 +161,8 @@ Cura Cabai 23,Savaneta,Sold, Residential,243.000,3,2,No,12.44483568981796,"-69.9
                                         ",https://kw-aruba.com//listings/cura-cabai-23
 Koeriboeri Residence,Paradera,Sold, Residential,239.000,3,2,No,12.543727805337056,"-69.98397225112915
                                         ",https://kw-aruba.com//listings/koeriboeri-residence
-Boton Residence,Santa Cruz,New Listing, Residential,238.764,3,2,No,12.495312998988801,"-69.96645206184387
-                                        ",https://kw-aruba.com//listings/boton-residence
 Great Hillweg 23,San Nicolas,Under contract, Residential,236.000,2,2,No,12.446271000697587,"-69.89939683647152
                                         ",https://kw-aruba.com//listings/great-hillweg-23
-Pos Abao 32M,Noord,Sold, Residential,224.157,2,2,No,12.543298422454246,"-70.0505124923706
-                                        ",https://kw-aruba.com//listings/pos-abao-32m
 Cas Ariba 37C,Santa Cruz,Sold, Residential,221.910,3,2,No,12.513606432012574,"-69.97223490447998
                                         ",https://kw-aruba.com//listings/cas-aruba-37c
 Yanana 9,Oranjestad,,,219.101,3,3,,12.52381834882794,"-70.01671665878295
@@ -177,7 +177,7 @@ Mabon 5-B,San Nicolas,New Listing, Residential,212.922,4,3,No,12.45253598737222,
                                         ",https://kw-aruba.com//listings/mabon
 Seroe Blanco 610,Oranjestad,New Listing, Residential,210.674,2,1,Yes,12.528698978607697,"-70.02168947429656
                                         ",https://kw-aruba.com//listings/sero-blanco-601
-Hooiberg 18-I,Santa Cruz,New Listing, Residential,207.023,2,2,No,12.522257784626039,"-69.99618166656494
+Hooiberg 18-I,Santa Cruz,Under contract, Residential,207.023,2,2,No,12.522257784626039,"-69.99618166656494
                                         ",https://kw-aruba.com//listings/hooiberg-residence
 Savaneta 125-G,Savaneta,Under contract, Residential,202.247,3,2,No,12.450702603915598,"-69.94600826473236
                                         ",https://kw-aruba.com//listings/savaneta-125-g
@@ -201,7 +201,7 @@ Coba Lodo 2-G,Santa Cruz,Reduced in price, Residential,176.967,3,2,No,12.5018962
                                         ",https://kw-aruba.com//listings/Coba Lodo-2-G
 Wabistraat 2,Oranjestad,Sold, Residential,167.977,3,2,No,12.532071376972818,"-70.03079289169311
                                         ",https://kw-aruba.com//listings/wabistraat-2
-Weg Seroe Blanco 29 S,San Nicolas,Under contract, Residential,150.000,4,3,,12.454536979673854,"-69.90298026771545
+Weg Seroe Blanco 29 S,San Nicolas,Sold, Residential,150.000,4,3,,12.454536979673854,"-69.90298026771545
                                         ",https://kw-aruba.com//listings/weg-seroe-blanco-29-s
 Caya Frere Fredericus,Oranjestad,,,146.067,3,2,No,,,https://kw-aruba.com//listings/caya-frere-federicus
 Kadushi largo 8H,Santa Cruz,Reduced in price, Residential,123.596,3,2,No,12.520131631628434,"-69.97134441108703
@@ -257,12 +257,12 @@ Coral Shell Condominium,Oranjestad,,,468.500,1,1,Yes,12.51401229795567,"-70.0322
                                         ",https://kw-aruba.com//listings/coral-shell-condominium
 Blue Residences unit #633,Eagle Beach,New Listing, Condominium/Townhouse,438.500,1,1,Yes,12.560253265674852,"-70.0536453125
                                         ",https://kw-aruba.com//listings/blue-residences-unit-633
-Gold Coast Diamante 233B,Malmok,Reduced in price, Condominium/Townhouse,385.000,2,2,Yes,12.59762929867554,"-70.04055881471633
-                                        ",https://kw-aruba.com//listings/diamante-233B
 Diamante 24 Gold Coast - Type Colorado,Malmok,New Listing, Condominium/Townhouse,375.000,2,3,Yes,12.599850354001255,"-70.0407331583023
                                         ",https://kw-aruba.com//listings/diamante-24-gold-coast-type-colorado
 Diamante 68,Malmok,Under contract, Condominium/Townhouse,369.000,2,3,Yes,12.599876530142614,"-70.04304522247314
                                         ",https://kw-aruba.com//listings/diamante-68
+Gold Coast Diamante 233B,Malmok,Reduced in price, Condominium/Townhouse,360.000,2,2,Yes,12.59762929867554,"-70.04055881471633
+                                        ",https://kw-aruba.com//listings/diamante-233B
 Gold Coast Diamante 236D,Malmok,,,350.000,2,2,Yes,12.597604431123369,"-70.03982657165527
                                         ",https://kw-aruba.com//listings/diamante-236d
 Gold Coast Diamante 238C,Malmok,New Listing, Condominium/Townhouse,350.000,2,2,Yes,12.597850488901981,"-70.0398694869995
@@ -311,6 +311,7 @@ Alto Vista Property Land 14.000 m2,Noord,Reduced in price, Land,707.865,0,0,,12.
                                         ",https://kw-aruba.com//listings/alto-vista-property-land-14000-m2
 Property land Parkietenbos,Oranjestad,New Listing, Land,500.933,0,0,,12.490531249783881,"-70.00230246753692
                                         ",https://kw-aruba.com//listings/property-land-parkietenbos
+Watapana Gezaag,San Nicolas,New Listing, Land,470.960,0,0,,,,https://kw-aruba.com//listings/watapana-gezaag
 Commercial land at Palm Beach,Palm Beach,,,438.202,0,0,,12.565372748911015,"-70.03884622426033
                                         ",https://kw-aruba.com//listings/palm-beach-land
 Catalina Estates,Malmok,New Listing, Land,425.000,0,0,,12.605216407068552,"-70.04808777542114
@@ -329,7 +330,7 @@ Alto Vista land,Noord,New Listing, Land,212.731,0,0,,12.563640958653021,"-70.016
                                         ",https://kw-aruba.com//listings/alto-vista-land
 Bringamosa 2228 Property land,Santa Cruz,,,200.269,0,0,,12.493773212073414,"-69.96712797851562
                                         ",https://kw-aruba.com//listings/bringamosa-2228-property-land
-Property land Bringamosa 2027m2,Santa Cruz,,,182.202,0,0,,12.492822624757196,"-69.96757322521209
+Property land Bringamosa 2027m2,Santa Cruz,Sold, Land,182.202,0,0,,12.492822624757196,"-69.96757322521209
                                         ",https://kw-aruba.com//listings/property-land-bringamosa
 Morgenster z/n,Santa Cruz,,,168.539,0,0,,12.514758565927565,"-70.00904554100036
                                         ",https://kw-aruba.com//listings/morgenster-zn
@@ -398,8 +399,6 @@ Paradera 117G,Paradera,Rented, Residential,2.000,3,2,Yes,12.534828436955243,"-70
                                         ",https://kw-aruba.com//listings/paradera-117g-2
 Bushiri 90,Noord,Rented, Residential,2.000,3,2,No,12.541737976193227,"-70.0500618812561
                                         ",https://kw-aruba.com//listings/bushiri-90
-Kas Paloma Home,Oranjestad,New Listing, Residential,1.826,3,2,No,12.493215429856953,"-70.00726455421447
-                                        ",https://kw-aruba.com//listings/kas-paloma-home
 Casibari 86,Paradera,Rented, Residential,1.700,3,2,No,12.533584752580351,"-69.99808603496551
                                         ",https://kw-aruba.com//listings/casibari-86
 Esmeralda 34-D,Noord,Rented, Residential,1.700,3,2,No,12.594808779354617,"-70.042658984375
@@ -414,6 +413,8 @@ Villa Paraiso Noord,Noord,Rented, Residential,1.580,2,2,No,12.565656798051366,"-
                                         ",https://kw-aruba.com//listings/villa-paraiso-noord
 Bubali Apartment #3,Eagle Beach,Rented, Residential,1.500,2,1,Yes,12.551503700707567,"-70.04866176815032
                                         ",https://kw-aruba.com//listings/bubali-apartment-3
+Paradera Two Bedroom Apartment,Paradera,New Listing, Residential,1.405,2,1,No,12.530636542066635,"-70.00090771884918
+                                        ",https://kw-aruba.com//listings/Paradera-Two-Bedroom-Apartment
 Vigia 28,Paradera,Rented, Residential,1.404,2,2,No,12.540669745784752,"-70.0013797876358
                                         ",https://kw-aruba.com//listings/vigia-28
 Fortheuvelstraat 49,San Nicolas,New Listing, Residential,1.404,3,2,No,12.434122991273203,"-69.88811546535491
@@ -426,7 +427,7 @@ Savaneta Residence,Savaneta,Rented, Residential,1.095,2,2,No,12.457554153542432,
                                         ",https://kw-aruba.com//listings/savaneta-residence
 Paradera 3-Bedroom Home,Paradera,Rented, Residential,1.068,3,2,No,12.539622456769523,"-70.00531727046966
                                         ",https://kw-aruba.com//listings/paradera-3-bedroom-home
-Pos Chiquito Home Residence,Pos Chiquito,New Listing, Residential,1.011,0,0,,12.465348356892333,"-69.9584805366516
+Pos Chiquito Home Residence,Pos Chiquito,Rented, Residential,1.011,0,0,,12.465348356892333,"-69.9584805366516
                                         ",https://kw-aruba.com//listings/Pos Chiquito-home-residence
 Tanki Leendert Apartment,Tanki Leendert,New Listing, Residential,1.000,3,2,Yes,12.53795725846869,"-70.01830452651977
                                         ",https://kw-aruba.com//listings/tanki-leendert-apartment
