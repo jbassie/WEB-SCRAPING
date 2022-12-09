@@ -21,6 +21,8 @@ Caya di Oro 52 Tierra del Sol,Malmok,Sold, Residential,869 m² (9.354 Sq Ft),1.1
                                         ",https://kw-aruba.com//listings/52-tierra-del-sol
 Alto Vista 45-A,Noord,New Listing, Residential,762 m² (8.202 Sq Ft),1.100.000,4,4,Yes,12.570719888583659,"-70.01940423221588
                                         ",https://kw-aruba.com//listings/AltoVista45A
+Ruby 38,Malmok,New Listing, Residential,664 m² (7.147 Sq Ft),1.100.000,3,3,Yes,12.591604736475732,"-70.0419937965393
+                                        ",https://kw-aruba.com//listings/ruby-38-1
 Villa Safir - ON HOLD,Noord,New Listing, Residential,700 m² (7.535 Sq Ft),1.000.000,5,5,Yes,12.59298687752872,"-70.03636115760803
                                         ",https://kw-aruba.com//listings/villa-safir
 Koyari Boutique Apartments,Noord,Under contract, Residential,1506 m² (16.211 Sq Ft),939.000,8,8,Yes,12.558781935349463,"-70.04541093082427
@@ -31,8 +33,6 @@ Safir 39,Malmok,Under contract, Residential,655 m² (7.050 Sq Ft),875.000,4,4,Ye
                                         ",https://kw-aruba.com//listings/safir-39
 Monaco Vacation House,Oranjestad,,,1382 m² (14.876 Sq Ft),850.000,8,8,Yes,12.526811149395177,"-70.02170020313262
                                         ",https://kw-aruba.com//listings/seroe-blanco-56-l
-Villa Westpunt,Malmok,New Listing, Residential,864 m² (9.300 Sq Ft),850.000,4,3,Yes,12.594965839250884,"-70.0380670425415
-                                        ",https://kw-aruba.com//listings/villa-westpunt
 Paradera 104-C,Paradera,Under contract, Residential,2329 m² (25.069 Sq Ft),795.000,5,3,Yes,12.529934831576991,"-70.00340217323303
                                         ",https://kw-aruba.com//listings/paradera-104-c
 Caya Frere Johannes 4,Oranjestad,New Listing, Residential,690 m² (7.427 Sq Ft),795.000,12,12,No,12.534667232662475,"-70.03700196814144
@@ -46,6 +46,8 @@ Seroe Blanco 54-A,Oranjestad,Sold, Residential,1725 m² (18.568 Sq Ft),735.000,8
                                         ",https://kw-aruba.com//listings/seroe-blanco-54-
 Palm Beach 33-A,Noord,,,1060 m² (11.410 Sq Ft),695.000,3,2,No,12.56743700671298,"-70.04117840499877
                                         ",https://kw-aruba.com//listings/palm-beach-33-
+Villa Westpunt,Malmok,Reduced in price, Residential,864 m² (9.300 Sq Ft),680.000,4,3,Yes,12.594965839250884,"-70.0380670425415
+                                        ",https://kw-aruba.com//listings/villa-westpunt
 Pos Abao 32M,Eagle Beach,New Listing, Residential,706 m² (7.599 Sq Ft),675.000,3,2,Yes,12.543246058639003,"-70.05048030586242
                                         ",https://kw-aruba.com//listings/pos-abao-32m-2
 Alto Vista Villa Park,Noord,New Listing, Residential,2540 m² (27.341 Sq Ft),650.000,6,5,Yes,12.575070820494437,"-70.01491421432495
@@ -115,7 +117,6 @@ Caya Luna 46,Oranjestad,Sold, Residential,716 m² (7.707 Sq Ft),385.000,4,3,Yes,
                                         ",https://kw-aruba.com//listings/caya-luna-46
 Morgenster 43I,Santa Cruz,New Listing, Residential,680 m² (7.320 Sq Ft),382.023,4,3,No,12.518330148382224,"-70.00464671821594
                                         ",https://kw-aruba.com//listings/morgenster-43i
-Verano 12,Oranjestad,New Listing, Residential,474 m² (5.102 Sq Ft),375.000,5,4,,,,https://kw-aruba.com//listings/verano-12
 Cochinilla 28,Santa Cruz,Under contract, Residential,557 m² (5.996 Sq Ft),370.000,3,3,No,12.507374345809481,"-69.98893165559768
                                         ",https://kw-aruba.com//listings/cochinilla-28
 Wayaca Residence 497,Oranjestad,New Listing, Residential,533 m² (5.737 Sq Ft),365.168,3,0,No,12.502493312782892,"-69.99852591724395
@@ -136,9 +137,10 @@ Coba Lodo 12-F,Santa Cruz,Sold, Residential,4447 m² (47.868 Sq Ft),329.000,3,2,
                                         ",https://kw-aruba.com//listings/coba-lodo
 Boton 9 - K,Santa Cruz,Under contract, Residential,1128 m² (12.142 Sq Ft),325.500,4,2,No,12.49642855316839,"-69.96427410812377
                                         ",https://kw-aruba.com//listings/boton-9-k
+Verano 12,Oranjestad,Reduced in price, Residential,474 m² (5.102 Sq Ft),325.000,5,4,,,,https://kw-aruba.com//listings/verano-12
 Jan Flemming 5-H,Santa Cruz,New Listing, Residential,465 m² (5.005 Sq Ft),320.225,3,2,No,12.494509063767111,"-69.97555011482238
                                         ",https://kw-aruba.com//listings/jan-flemming-5-h
-Alto Vista Delight,Noord,Under contract, Residential,608 m² (6.545 Sq Ft),315.000,2,2,No,12.569405693698208,"-70.02190941543579
+Alto Vista Delight,Noord,Sold, Residential,608 m² (6.545 Sq Ft),315.000,2,2,No,12.569405693698208,"-70.02190941543579
                                         ",https://kw-aruba.com//listings/alto-vista-20
 Montaña 44,Noord,New Listing, Residential,750 m² (8.073 Sq Ft),310.000,4,3,No,12.558096009794046,"-70.0263296958923
                                         ",https://kw-aruba.com//listings/montana-44
@@ -155,6 +157,8 @@ Palisiaweg 46,San Nicolas,,,1195 m² (12.863 Sq Ft),280.000,3,3,No,12.4506187917
                                         ",https://kw-aruba.com//listings/palesiaweg-49
 "Watapanastraat 5, Oranjestad",Oranjestad,Reduced in price, Residential,841 m² (9.053 Sq Ft),278.090,8,6,No,12.531377525323867,"-70.02972269029617
                                         ",https://kw-aruba.com//listings/watapanastraat-5-oranjestad
+Paradera Residence,Paradera,New Listing, Residential,535 m² (5.759 Sq Ft),278.090,3,2,No,12.533816857555601,"-70.00496593491019
+                                        ",https://kw-aruba.com//listings/paradera-residence
 Paradera 117G,Paradera,Sold, Residential,519 m² (5.587 Sq Ft),269.100,3,2,Yes,12.535590354312623,"-70.00044101448059
                                         ",https://kw-aruba.com//listings/paradera-117g
 Weststraat 65 Apartmentcomplex,Oranjestad,Under contract, Residential,491 m² (5.285 Sq Ft),261.234,7,6,No,12.527366240695258,"-70.03847473831176
@@ -163,8 +167,6 @@ Paradera 173,Paradera,New Listing, Residential,706 m² (7.599 Sq Ft),252.809,5,1
                                         ",https://kw-aruba.com//listings/paradera-173
 Cura Cabai 23,Savaneta,Sold, Residential,1050 m² (11.302 Sq Ft),243.000,3,2,No,12.44483568981796,"-69.93104690284729
                                         ",https://kw-aruba.com//listings/cura-cabai-23
-Koeriboeri Residence,Paradera,Sold, Residential,585 m² (6.297 Sq Ft),239.000,3,2,No,12.543727805337056,"-69.98397225112915
-                                        ",https://kw-aruba.com//listings/koeriboeri-residence
 Great Hillweg 23,San Nicolas,Under contract, Residential,581 m² (6.254 Sq Ft),236.000,2,2,No,12.446271000697587,"-69.89939683647152
                                         ",https://kw-aruba.com//listings/great-hillweg-23
 Cas Ariba 37C,Santa Cruz,Sold, Residential,701 m² (7.546 Sq Ft),221.910,3,2,No,12.513606432012574,"-69.97223490447998
@@ -265,13 +267,13 @@ Diamante 24 Gold Coast - Type Colorado,Malmok,New Listing, Condominium/Townhouse
                                         ",https://kw-aruba.com//listings/diamante-24-gold-coast-type-colorado
 Diamante 68,Malmok,Sold, Condominium/Townhouse,108 m² (1.163 Sq Ft),369.000,2,3,Yes,12.599876530142614,"-70.04304522247314
                                         ",https://kw-aruba.com//listings/diamante-68
-Gold Coast Diamante 233B,Malmok,Reduced in price, Condominium/Townhouse, m² (0 Sq Ft),360.000,2,2,Yes,12.59762929867554,"-70.04055881471633
-                                        ",https://kw-aruba.com//listings/diamante-233B
 Gold Coast Diamante 236D,Malmok,,, m² (0 Sq Ft),350.000,2,2,Yes,12.597604431123369,"-70.03982657165527
                                         ",https://kw-aruba.com//listings/diamante-236d
-Gold Coast Diamante 238C,Malmok,New Listing, Condominium/Townhouse, m² (0 Sq Ft),350.000,2,2,Yes,12.597850488901981,"-70.0398694869995
+Gold Coast Diamante 238C,Malmok,Under contract, Condominium/Townhouse, m² (0 Sq Ft),350.000,2,2,Yes,12.597850488901981,"-70.0398694869995
                                         ",https://kw-aruba.com//listings/diamante-238c
-Gold Coast Diamante 124-C,Malmok,New Listing, Condominium/Townhouse, m² (0 Sq Ft),350.000,2,2,Yes,12.59907292138561,"-70.0435789820671
+Gold Coast Diamante 233B,Malmok,Reduced in price, Condominium/Townhouse, m² (0 Sq Ft),350.000,2,2,Yes,12.59762929867554,"-70.04055881471633
+                                        ",https://kw-aruba.com//listings/diamante-233B
+Gold Coast Diamante 124-C,Malmok,Under contract, Condominium/Townhouse, m² (0 Sq Ft),350.000,2,2,Yes,12.59907292138561,"-70.0435789820671
                                         ",https://kw-aruba.com//listings/gold-coast-diamante-124-c
 Tuscany Residence Townhouse,Noord,Sold, Condominium/Townhouse, m² (0 Sq Ft),347.000,3,2,Yes,12.581976036775197,"-70.03653215852204
                                         ",https://kw-aruba.com//listings/tuscany-townhouses
@@ -281,6 +283,8 @@ Harbour House Aruba,Oranjestad,,,370 m² (3.983 Sq Ft),339.121,2,1,Yes,12.519424
                                         ",https://kw-aruba.com//listings/harbour-house-aruba
 Diamante 124 B Gold Coast Aruba,Malmok,Sold, Condominium/Townhouse,90 m² (969 Sq Ft),335.000,2,2,Yes,12.59919594959969,"-70.04354411334991
                                         ",https://kw-aruba.com//listings/diamante-124-b-gold-coast-aruba
+GOLD COAST ARUBA Condo Diamante 236b,Malmok,Sold, Condominium/Townhouse, m² (0 Sq Ft),300.000,2,2,No,12.59782431255372,"-70.03984802932739
+                                        ",https://kw-aruba.com//listings/gold-coast-aruba-condo-diamante-236b
 Harbour House Studio #520,Oranjestad,,, m² (0 Sq Ft),295.000,0,1,Yes,12.51924398375174,"-70.04077070922851
                                         ",https://kw-aruba.com//listings/harbour-house-unit-520
 Aracari Residences,Noord,Sold, Condominium/Townhouse, m² (0 Sq Ft),294.866,0,0,Yes,12.58453685332743,"-70.03730529518127
@@ -365,8 +369,6 @@ Gray Door Apartments (Commercial Investment),Noord,Reduced in price, Commercial,
                                         ",https://kw-aruba.com//listings/gray-door-apartments
 Lux Villas by GG,Noord,,,4454 m² (47.943 Sq Ft),2.750.000,18,18,Yes,12.552273423027449,"-70.03662937850952
                                         ",https://kw-aruba.com//listings/lux-villas-gg
-Privada Villa Suites,Noord,New Listing, Commercial,773 m² (8.321 Sq Ft),1.750.000,8,8,Yes,12.54508925852391,"-70.04527682037353
-                                        ",https://kw-aruba.com//listings/Privada-Villa-Suites
 Tropical Boutique Hotel,Oranjestad,Sold, Commercial,1904 m² (20.495 Sq Ft),1.325.000,12,12,Yes,12.528447617956878,"-70.0368064043045
                                         ",https://kw-aruba.com//listings/tropical-boutique-hotel
 Island Yoga Building,Palm Beach,New Listing, Commercial,1335 m² (14.370 Sq Ft),1.200.000,0,5,No,12.564237858200068,"-70.03545188875198
@@ -437,6 +439,8 @@ Dominicanessenstraat 23,Oranjestad,Rented, Residential,45 m² (484 Sq Ft),899,1,
                                         ",https://kw-aruba.com//listings/dominicanessenstraat
 Nune Apartment #1,Paradera,Rented, Residential,0 m² (0 Sq Ft),843,1,1,No,12.538313339513186,"-70.00703924865722
                                         ",https://kw-aruba.com//listings/nune-apartment-1-2
+Paradera One Bedroom Apartment,Paradera,New Listing, Residential,0 m² (0 Sq Ft),843,1,1,No,12.53064701534307,"-70.0009130832672
+                                        ",https://kw-aruba.com//listings/paradera-one-bedroom-apartment
 Salina Cerca Townhouse,Noord,Rented, Condominium/Townhouse, m² (0 Sq Ft),2.400,3,2,Yes,12.581431534490386,"-70.03778206792298
                                         ",https://kw-aruba.com//listings/salina-cerca-townhouse
 Harbour House Studio 422S,Oranjestad,,, m² (0 Sq Ft),2.150,0,1,Yes,12.519367050158875,"-70.04092091293334
@@ -451,8 +455,6 @@ Gray Door Apartments (Commercial Investment),Noord,Reduced in price, Commercial,
                                         ",https://kw-aruba.com//listings/gray-door-apartments
 Lux Villas by GG,Noord,,,4454 m² (47.943 Sq Ft),2.750.000,18,18,Yes,12.552273423027449,"-70.03662937850952
                                         ",https://kw-aruba.com//listings/lux-villas-gg
-Privada Villa Suites,Noord,New Listing, Commercial,773 m² (8.321 Sq Ft),1.750.000,8,8,Yes,12.54508925852391,"-70.04527682037353
-                                        ",https://kw-aruba.com//listings/Privada-Villa-Suites
 Tropical Boutique Hotel,Oranjestad,Sold, Commercial,1904 m² (20.495 Sq Ft),1.325.000,12,12,Yes,12.528447617956878,"-70.0368064043045
                                         ",https://kw-aruba.com//listings/tropical-boutique-hotel
 Island Yoga Building,Palm Beach,New Listing, Commercial,1335 m² (14.370 Sq Ft),1.200.000,0,5,No,12.564237858200068,"-70.03545188875198
