@@ -3,8 +3,9 @@ from airflow.providers.http.sensors.http import HttpSensor
 from airflow.operators.python import PythonOperator
 from airflow.operators.bash import BashOperator
 from airflow.sensors.filesystem import FileSensor
-import pandas as pd
 
+
+import pandas as pd
 from datetime import datetime, timedelta
 import requests
 
@@ -18,6 +19,9 @@ default_args = {
 }
 
 def download_csv():
+    """
+    This function get data from a URL and saves it locally as CSV file in the specified path
+    """
     url = 'https://raw.githubusercontent.com/jbassie/WEB-SCRAPING/main/REAL_ESTATE/data/aruba_reality.csv'
     file_path = '/mnt/c/Users/ALIENWARE/Documents/LEARNING/data-engineering1/data/real_estate.csv'
     try:
@@ -33,6 +37,10 @@ def download_csv():
 
 
 def convert_to_parquet():
+    """
+    Using Pandas Library,we will convert a csv file to a parquet file
+    """
+
     columns= ['name','location','property_status','property_type','price','bedrooms','bathrooms','Pool','Latitude','Longitude','link']
     import_data = pd.read_csv('/mnt/c/Users/ALIENWARE/Documents/LEARNING/data-engineering1/data/real_estate.csv')
     import_data = list(import_data)
@@ -45,6 +53,7 @@ def convert_to_parquet():
 with DAG('simple_dag', start_date = datetime(2023,9,29),
                 schedule_interval = '@daily', default_args = default_args, catchup = False) as dag:
 
+    #check if the URL is available 
     is_data_available =  HttpSensor(
         task_id = 'is_data_available',
         http_conn_id = 'real_estate_api',
@@ -60,6 +69,7 @@ with DAG('simple_dag', start_date = datetime(2023,9,29),
             dag = dag
     )
 
+    #check if a real_estate.csv file is available locally
     is_real_estate_file_available = FileSensor(
             task_id = 'is_real_estate_file_available',
             fs_conn_id = 'data_path',
