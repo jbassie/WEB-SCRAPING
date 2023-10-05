@@ -58,7 +58,7 @@ def convert_to_parquet():
 
 
 with DAG('simple_dag', start_date = datetime(2023,9,29),
-                schedule_interval = '@daily', default_args = default_args, catchup = False) as dag:
+                schedule_interval = '0 8 * * * ', default_args = default_args, catchup = False) as dag:
 
     #check if the URL is available 
     is_data_available =  HttpSensor(
